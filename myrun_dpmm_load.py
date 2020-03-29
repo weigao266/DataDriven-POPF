@@ -50,4 +50,4 @@ scipy.io.savemat('dpmm_load_two.mat', {'n_components': dpmm_two.n_components,'we
 
 plt.show()
 
-print("Test2")
+print("T2")

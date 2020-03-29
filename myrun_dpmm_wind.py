@@ -84,4 +84,4 @@ plt.show()
 #
 # scipy.io.savemat('dpmm_one.mat', {'n_components': dpmm_one.n_components,'weights': dpmm_one.weights_, 'means': dpmm_one.means_, 'covariances': dpmm_one.covariances_, 'sample_dpmm_one':sample_dpmm_one})
 
-print("Test1")
+print("T1")
