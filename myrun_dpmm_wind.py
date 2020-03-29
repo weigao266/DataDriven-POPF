@@ -83,3 +83,5 @@ plt.show()
 # scipy.io.savemat('gmm_5_one.mat', {'n_components': gmm_5_one.n_components,'weights': gmm_5_one.weights_, 'means': gmm_5_one.means_, 'covariances': gmm_5_one.covariances_, 'sample_gmm_5_one':sample_gmm_5_one})
 #
 # scipy.io.savemat('dpmm_one.mat', {'n_components': dpmm_one.n_components,'weights': dpmm_one.weights_, 'means': dpmm_one.means_, 'covariances': dpmm_one.covariances_, 'sample_dpmm_one':sample_dpmm_one})
+
+print("Test1")

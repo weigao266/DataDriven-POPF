@@ -49,3 +49,5 @@ scipy.io.savemat('gmm_load_5_two.mat', {'n_components': gmm_5_two.n_components,'
 scipy.io.savemat('dpmm_load_two.mat', {'n_components': dpmm_two.n_components,'weights': dpmm_two.weights_, 'means': dpmm_two.means_, 'covariances': dpmm_two.covariances_, 'sample_dpmm_two':sample_dpmm_two})
 
 plt.show()
+
+print("Test2")
