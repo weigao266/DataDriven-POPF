@@ -40,7 +40,7 @@ wind_data = wind_data.reshape(-1, 1)
 # sample_gmm_5_one, label_gmm_5_one = gmm_5_one.sample(n_samples=10000)
 
 All_LB = []
-Max_iter = 15
+Max_iter = 505
 Iter_gap = 5
 
 for i in range(Iter_gap, Max_iter, Iter_gap):
