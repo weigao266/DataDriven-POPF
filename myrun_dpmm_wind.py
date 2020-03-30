@@ -52,6 +52,8 @@ for i in range(Iter_gap, Max_iter, Iter_gap):
 
 print('All lower bound values:', All_LB)
 
+
+plt.switch_backend('agg')
 plt.plot(range(Iter_gap, Max_iter, Iter_gap), All_LB)
 plt.savefig('fig_LB_iter.eps', dpi=1000)
 # plt.show()
