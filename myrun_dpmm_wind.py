@@ -9,18 +9,6 @@ import pandas as pd
 
 from sklearn import mixture
 
-
-# Guide of pandas
-# df = pd.read_csv('./wind_power_datasets/windfarm1.csv', skiprows=3)
-# df.head()
-# df.tail()
-# uni_data = df['power (MW)']
-# # uni_data.index = df['Date Time']
-# uni_data.head()
-# uni_data.tail()
-# uni_data.plot(subplots=True)
-# uni_data = uni_data.values
-
 df = pd.read_csv('./wind_station_datasets/wind_station_2/93358-2008.csv', skiprows=3)
 # print(df.head())
 # print(df.tail())
@@ -28,7 +16,7 @@ df = pd.read_csv('./wind_station_datasets/wind_station_2/93358-2008.csv', skipro
 wind_data = df['power (MW)']
 print(wind_data.head())
 
-
+# Plot the data
 # wind_data.plot(subplots=True)
 # plt.show()
 
@@ -83,5 +71,3 @@ plt.show()
 # scipy.io.savemat('gmm_5_one.mat', {'n_components': gmm_5_one.n_components,'weights': gmm_5_one.weights_, 'means': gmm_5_one.means_, 'covariances': gmm_5_one.covariances_, 'sample_gmm_5_one':sample_gmm_5_one})
 #
 # scipy.io.savemat('dpmm_one.mat', {'n_components': dpmm_one.n_components,'weights': dpmm_one.weights_, 'means': dpmm_one.means_, 'covariances': dpmm_one.covariances_, 'sample_dpmm_one':sample_dpmm_one})
-
-print("Test1")
