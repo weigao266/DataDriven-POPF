@@ -1,0 +1,174 @@
+0    4.424
+1    3.729
+2    3.344
+3    3.218
+4    3.226
+Name: power (MW), dtype: float64
+Initialization 0
+  Iteration 0	 time lapse 0.57956s	 ll change inf
+Initialization converged: False	 time lapse 2.84574s	 ll -157669.61020
+Iteration index: 10 
+Lower bound value: -157669.610199 
+Initialization 0
+  Iteration 0	 time lapse 0.79264s	 ll change inf
+  Iteration 10	 time lapse 2.52017s	 ll change 59.55720
+Initialization converged: False	 time lapse 5.71955s	 ll -157353.27070
+Iteration index: 20 
+Lower bound value: -157353.270699 
+Initialization 0
+  Iteration 0	 time lapse 0.61130s	 ll change inf
+  Iteration 10	 time lapse 2.49542s	 ll change 57.21058
+  Iteration 20	 time lapse 2.63494s	 ll change 16.19530
+Initialization converged: False	 time lapse 8.14609s	 ll -157205.35034
+Iteration index: 30 
+Lower bound value: -157205.350340 
+Initialization 0
+  Iteration 0	 time lapse 0.63110s	 ll change inf
+  Iteration 10	 time lapse 2.56446s	 ll change 54.16067
+  Iteration 20	 time lapse 2.66678s	 ll change 16.32915
+  Iteration 30	 time lapse 2.65221s	 ll change 8.96287
+Initialization converged: False	 time lapse 10.88341s	 ll -157154.03272
+Iteration index: 40 
+Lower bound value: -157154.032716 
+Initialization 0
+  Iteration 0	 time lapse 1.18029s	 ll change inf
+  Iteration 10	 time lapse 2.60735s	 ll change 53.78880
+  Iteration 20	 time lapse 2.56912s	 ll change 16.08592
+  Iteration 30	 time lapse 2.64674s	 ll change 8.83402
+  Iteration 40	 time lapse 2.70278s	 ll change 5.53802
+Initialization converged: False	 time lapse 14.04723s	 ll -157087.64488
+Iteration index: 50 
+Lower bound value: -157087.644879 
+Initialization 0
+  Iteration 0	 time lapse 0.70484s	 ll change inf
+  Iteration 10	 time lapse 2.48856s	 ll change 54.82238
+  Iteration 20	 time lapse 2.40913s	 ll change 16.54764
+  Iteration 30	 time lapse 2.60413s	 ll change 9.17901
+  Iteration 40	 time lapse 2.61239s	 ll change 5.70979
+  Iteration 50	 time lapse 2.74224s	 ll change 3.68384
+Initialization converged: False	 time lapse 16.02761s	 ll -157056.30955
+Iteration index: 60 
+Lower bound value: -157056.309549 
+Initialization 0
+  Iteration 0	 time lapse 0.60521s	 ll change inf
+  Iteration 10	 time lapse 2.44516s	 ll change 56.60383
+  Iteration 20	 time lapse 2.64408s	 ll change 16.44211
+  Iteration 30	 time lapse 2.73476s	 ll change 8.79945
+  Iteration 40	 time lapse 2.61216s	 ll change 5.54747
+  Iteration 50	 time lapse 2.54120s	 ll change 3.70784
+  Iteration 60	 time lapse 2.51556s	 ll change 2.57295
+Initialization converged: False	 time lapse 18.05807s	 ll -157052.59938
+Iteration index: 70 
+Lower bound value: -157052.599382 
+Initialization 0
+  Iteration 0	 time lapse 0.91009s	 ll change inf
+  Iteration 10	 time lapse 2.47052s	 ll change 56.49375
+  Iteration 20	 time lapse 2.55862s	 ll change 15.99459
+  Iteration 30	 time lapse 2.54418s	 ll change 8.30451
+  Iteration 40	 time lapse 2.59928s	 ll change 4.93076
+  Iteration 50	 time lapse 2.65601s	 ll change 3.14062
+  Iteration 60	 time lapse 2.56746s	 ll change 2.18171
+  Iteration 70	 time lapse 2.61752s	 ll change 1.62734
+Initialization converged: False	 time lapse 21.26043s	 ll -157036.68637
+Iteration index: 80 
+Lower bound value: -157036.686370 
+Initialization 0
+  Iteration 0	 time lapse 0.81351s	 ll change inf
+  Iteration 10	 time lapse 2.56544s	 ll change 55.72237
+  Iteration 20	 time lapse 2.49489s	 ll change 15.95295
+  Iteration 30	 time lapse 2.55978s	 ll change 8.36977
+  Iteration 40	 time lapse 2.56994s	 ll change 4.99133
+  Iteration 50	 time lapse 2.68502s	 ll change 3.20718
+  Iteration 60	 time lapse 2.50151s	 ll change 2.25097
+  Iteration 70	 time lapse 2.60479s	 ll change 1.69154
+  Iteration 80	 time lapse 2.56282s	 ll change 1.33362
+Initialization converged: False	 time lapse 23.69216s	 ll -157017.83660
+Iteration index: 90 
+Lower bound value: -157017.836601 
+Initialization 0
+  Iteration 0	 time lapse 0.73725s	 ll change inf
+  Iteration 10	 time lapse 2.58146s	 ll change 56.42625
+  Iteration 20	 time lapse 2.59028s	 ll change 16.82786
+  Iteration 30	 time lapse 2.59840s	 ll change 8.46421
+  Iteration 40	 time lapse 2.55871s	 ll change 4.83814
+  Iteration 50	 time lapse 2.61265s	 ll change 3.08850
+  Iteration 60	 time lapse 2.63513s	 ll change 2.13476
+  Iteration 70	 time lapse 2.62904s	 ll change 1.55285
+  Iteration 80	 time lapse 2.70443s	 ll change 1.18477
+  Iteration 90	 time lapse 2.49975s	 ll change 0.94843
+Initialization converged: False	 time lapse 26.48437s	 ll -157036.81195
+Iteration index: 100 
+Lower bound value: -157036.811952 
+Initialization 0
+  Iteration 0	 time lapse 0.82869s	 ll change inf
+  Iteration 10	 time lapse 2.71740s	 ll change 55.34430
+  Iteration 20	 time lapse 2.35680s	 ll change 15.87729
+  Iteration 30	 time lapse 2.57899s	 ll change 8.34575
+  Iteration 40	 time lapse 2.64933s	 ll change 4.98098
+  Iteration 50	 time lapse 2.71419s	 ll change 3.20183
+  Iteration 60	 time lapse 2.62008s	 ll change 2.24761
+  Iteration 70	 time lapse 2.63698s	 ll change 1.68861
+  Iteration 80	 time lapse 2.62618s	 ll change 1.32977
+  Iteration 90	 time lapse 2.62594s	 ll change 1.08305
+  Iteration 100	 time lapse 2.55690s	 ll change 0.90267
+Initialization converged: False	 time lapse 29.23165s	 ll -156998.40208
+Iteration index: 110 
+Lower bound value: -156998.402080 
+Initialization 0
+  Iteration 0	 time lapse 0.78921s	 ll change inf
+  Iteration 10	 time lapse 2.57561s	 ll change 54.60763
+  Iteration 20	 time lapse 2.65222s	 ll change 17.38876
+  Iteration 30	 time lapse 2.51094s	 ll change 9.85204
+  Iteration 40	 time lapse 2.58008s	 ll change 6.24015
+  Iteration 50	 time lapse 2.73258s	 ll change 4.10973
+  Iteration 60	 time lapse 2.57382s	 ll change 2.78446
+  Iteration 70	 time lapse 2.57961s	 ll change 1.94316
+  Iteration 80	 time lapse 2.51655s	 ll change 1.40098
+  Iteration 90	 time lapse 2.52826s	 ll change 1.04263
+  Iteration 100	 time lapse 2.63465s	 ll change 0.79784
+  Iteration 110	 time lapse 2.67468s	 ll change 0.62580
+Initialization converged: False	 time lapse 31.67269s	 ll -156979.53101
+Iteration index: 120 
+Lower bound value: -156979.531014 
+Initialization 0
+  Iteration 0	 time lapse 0.78457s	 ll change inf
+  Iteration 10	 time lapse 2.67012s	 ll change 58.26977
+  Iteration 20	 time lapse 2.76929s	 ll change 16.68282
+  Iteration 30	 time lapse 2.73566s	 ll change 8.69850
+  Iteration 40	 time lapse 2.56833s	 ll change 5.45111
+  Iteration 50	 time lapse 2.58749s	 ll change 3.67841
+  Iteration 60	 time lapse 2.62284s	 ll change 2.59061
+  Iteration 70	 time lapse 2.63786s	 ll change 1.87923
+  Iteration 80	 time lapse 2.55167s	 ll change 1.39805
+  Iteration 90	 time lapse 2.43205s	 ll change 1.07003
+  Iteration 100	 time lapse 1.90493s	 ll change 0.84595
+  Iteration 110	 time lapse 2.04075s	 ll change 0.68968
+  Iteration 120	 time lapse 2.18126s	 ll change 0.57656
+Initialization converged: False	 time lapse 32.64278s	 ll -156997.47080
+Iteration index: 130 
+Lower bound value: -156997.470796 
+Initialization 0
+  Iteration 0	 time lapse 0.62722s	 ll change inf
+  Iteration 10	 time lapse 2.52884s	 ll change 55.15849
+  Iteration 20	 time lapse 2.64401s	 ll change 16.23355
+  Iteration 30	 time lapse 2.64272s	 ll change 8.56142
+  Iteration 40	 time lapse 2.59982s	 ll change 5.22939
+  Iteration 50	 time lapse 2.56538s	 ll change 3.36535
+  Iteration 60	 time lapse 2.57000s	 ll change 2.26431
+  Iteration 70	 time lapse 2.54047s	 ll change 1.59623
+  Iteration 80	 time lapse 2.49078s	 ll change 1.17841
+  Iteration 90	 time lapse 2.47948s	 ll change 0.90904
+  Iteration 100	 time lapse 2.57568s	 ll change 0.72962
+  Iteration 110	 time lapse 2.48743s	 ll change 0.60562
+  Iteration 120	 time lapse 2.55707s	 ll change 0.51643
+  Iteration 130	 time lapse 2.62722s	 ll change 0.44973
+Initialization converged: False	 time lapse 36.25784s	 ll -156994.88181
+Iteration index: 140 
+Lower bound value: -156994.881813 
+Initialization 0
+  Iteration 0	 time lapse 0.57726s	 ll change inf
+  Iteration 10	 time lapse 2.72491s	 ll change 53.36687
+  Iteration 20	 time lapse 2.41956s	 ll change 16.74698
+  Iteration 30	 time lapse 2.48769s	 ll change 9.40380
+  Iteration 40	 time lapse 2.52806s	 ll change 5.92390
+  Iteration 50	 time lapse 2.58043s	 ll change 3.89170
