@@ -40,8 +40,8 @@ wind_data = wind_data.reshape(-1, 1)
 # sample_gmm_5_one, label_gmm_5_one = gmm_5_one.sample(n_samples=10000)
 
 All_LB = []
-Max_iter = 202
-Iter_gap = 2
+Max_iter = 210
+Iter_gap = 10
 
 for i in range(Iter_gap, Max_iter, Iter_gap):
     dpmm_one = mixture.BayesianGaussianMixture(n_components=15, max_iter=i, tol=1e-3, n_init=1,
@@ -55,7 +55,7 @@ print('All lower bound values:', All_LB)
 
 plt.switch_backend('agg')
 plt.plot(range(Iter_gap, Max_iter, Iter_gap), All_LB)
-plt.savefig('./figures/fig_lb_202_2.eps', dpi=1000)
+plt.savefig('./figures/fig_lb_210_10.eps', dpi=1000)
 # plt.show()
 
 
