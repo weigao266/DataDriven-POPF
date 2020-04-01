@@ -1,4 +1,3 @@
-python plot_lb_502_2_wind1.py
 python plot_lb_502_2_wind2.py
 python plot_lb_502_2_wind3.py
 python plot_lb_502_2_wind4.py

@@ -13,7 +13,7 @@ from sklearn import mixture
 # wind_station_2: 93358
 # wind_station_3: 98359
 # wind_station_4: 100373
-df = pd.read_csv('./wind_station_datasets/wind_station_1/100373-2012.csv', skiprows=3)
+df = pd.read_csv('./wind_station_datasets/wind_station_4/100373-2012.csv', skiprows=3)
 wind_data = df['power (MW)']
 wind_data = wind_data.values
 wind_data = wind_data.reshape(-1, 1)
