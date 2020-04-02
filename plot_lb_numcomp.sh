@@ -1,0 +1,4 @@
+python plot_lb_numcomp_wind1.py
+python plot_lb_numcomp_wind2.py
+python plot_lb_numcomp_wind3.py
+python plot_lb_numcomp_wind4.py
