@@ -37175,3 +37175,1769 @@ Lower bound value: -170351.748770
 All lower bound values: [-173317.84530871274, -172321.54923532609, -171649.22353017965, -171420.74900317995, -171186.14175144388, -171088.8376028171, -170969.33342133049, -170904.06238241558, -170853.09460091853, -170818.33257713832, -170791.74262790714, -170746.14356434907, -170734.38618544888, -170700.49691527701, -170698.25445291193, -170680.20206459565, -170660.58298330411, -170636.947355877, -170621.78006983642, -170620.82352972461, -170612.28191691003, -170581.02977707033, -170583.47075993259, -170582.41788681757, -170569.80389279177, -170549.24411111395, -170554.5198950156, -170539.9258638061, -170524.01753542272, -170520.74140609021, -170511.13174662986, -170507.92025281148, -170511.40698489937, -170493.27220496596, -170484.56066746049, -170479.87248422758, -170477.78314821591, -170476.09953976254, -170466.41550922717, -170473.00755197523, -170459.84881304184, -170453.97535988595, -170462.10628991603, -170474.29093678965, -170447.39163797427, -170456.89810176054, -170457.80976176963, -170447.15821135123, -170453.90279848303, -170455.06607520444, -170440.77689685649, -170424.77284748395, -170426.12273151759, -170449.64592771983, -170435.42153281978, -170424.56412891723, -170453.54361246579, -170428.37146848085, -170420.78541988111, -170415.33942652555, -170413.12336315517, -170409.66815137549, -170419.54825707915, -170424.27981294892, -170409.76519905077, -170418.94620479969, -170400.71847444464, -170417.59700938364, -170400.11145548045, -170408.64936579808, -170411.93220593728, -170404.12232858082, -170403.99453720837, -170400.34559930873, -170395.8146526732, -170403.66397461097, -170395.70594584363, -170391.76868008613, -170406.81736051803, -170395.17013260146, -170399.6460608136, -170388.95422489586, -170387.88412557094, -170396.35127569459, -170384.08597744259, -170391.71814475319, -170387.98187487278, -170386.17333274041, -170384.39028134855, -170395.86750528577, -170385.76048053466, -170379.59099172271, -170391.15871920169, -170388.06732278646, -170384.81751414528, -170385.34832228476, -170380.39527856113, -170385.04822659583, -170388.32946234848, -170389.77275481142, -170387.92990212594, -170389.56675814863, -170381.12996729158, -170388.64917073798, -170384.84388732855, -170379.69057613763, -170376.59783532645, -170377.13083337672, -170367.4059171979, -170378.38217480647, -170375.58531714565, -170371.71137020507, -170370.55525787777, -170376.76759454238, -170370.91744381667, -170365.79071084023, -170372.05181476104, -170370.3830681988, -170374.60483482151, -170371.00116270073, -170377.67950168444, -170377.85607638245, -170371.66310201181, -170378.80853133139, -170370.94006000337, -170369.74378732443, -170377.25091173861, -170369.83042407926, -170379.16341587942, -170378.23000588091, -170368.36592094577, -170367.79639606859, -170372.16026932056, -170372.70435156248, -170368.1267664099, -170362.92917807173, -170365.58306814032, -170358.79078714116, -170363.78775252664, -170361.06715082374, -170362.04242593198, -170372.78199939692, -170361.19648691759, -170361.43331340695, -170362.79526946315, -170363.55281617047, -170367.35670793609, -170360.30453142873, -170367.22797349459, -170366.76561150767, -170367.85787527892, -170362.45153895294, -170372.33759515709, -170359.84744904097, -170362.88876062198, -170366.54844129161, -170359.33856411863, -170357.5272768414, -170361.5052801269, -170363.91537226384, -170362.4971107647, -170359.47988186803, -170365.89796688175, -170357.79666679344, -170365.00077193102, -170369.9261173628, -170370.33754327177, -170358.46865092521, -170356.76022327287, -170369.63647753178, -170371.4197490435, -170356.23816045621, -170367.12367361205, -170356.34610445902, -170357.68161344976, -170361.47719311985, -170358.98634923249, -170362.27139896894, -170369.03097634853, -170355.05598451794, -170360.22300117338, -170356.77637775434, -170362.71377123269, -170355.72911673191, -170359.84469916252, -170360.89122654885, -170359.28244352603, -170357.27717518088, -170356.57741300939, -170365.65558914104, -170354.66248335698, -170367.03860954198, -170360.25493919282, -170365.70509727279, -170359.15831524177, -170358.92597089629, -170361.06743675462, -170361.89654011012, -170359.42613143523, -170352.46499587595, -170353.69975110999, -170355.1899486866, -170353.62139926176, -170352.79397636253, -170356.76619220481, -170357.41823911548, -170365.64666244431, -170352.02039662859, -170355.45919318098, -170363.88752841117, -170355.66035475524, -170364.01308882021, -170349.24249065862, -170349.59432630829, -170361.30231383941, -170355.29273378287, -170358.85226861, -170350.20218357228, -170355.87242647901, -170352.8455819948, -170355.71328368966, -170355.38494369981, -170352.64308665253, -170349.70087496066, -170356.96347839906, -170356.87747812839, -170360.83214787001, -170348.43877695661, -170348.36653625738, -170347.93838675992, -170355.62392631581, -170356.65051601091, -170360.0383761049, -170356.54928388252, -170357.27761415244, -170348.56069908396, -170350.7154582942, -170354.96876643863, -170359.27690938028, -170350.7162646637, -170363.57074547143, -170358.39375153527, -170356.84275332146, -170351.21588280846, -170353.68355892628, -170352.04615558658, -170354.4757695265, -170355.69947745229, -170345.37869227133, -170351.74877038319]/home/student/anaconda3/lib/python3.6/site-packages/sklearn/mixture/base.py:237: ConvergenceWarning: Initialization 1 did not converge. Try different init parameters, or increase max_iter, tol or check for degenerate data.
   % (init + 1), ConvergenceWarning)
 
+Initialization 0
+  Iteration 0	 time lapse 0.05236s	 ll change inf
+Initialization converged: True	 time lapse 0.06628s	 ll -237890.83129
+The number of components is: 1 
+The lower bound value is: -237890.831289 
+
+Initialization 0
+  Iteration 0	 time lapse 0.09412s	 ll change inf
+  Iteration 10	 time lapse 0.41148s	 ll change 72.59733
+  Iteration 20	 time lapse 0.39473s	 ll change 80.28677
+  Iteration 30	 time lapse 0.40226s	 ll change 67.17385
+  Iteration 40	 time lapse 0.38464s	 ll change 61.03800
+  Iteration 50	 time lapse 0.37316s	 ll change 39.67809
+  Iteration 60	 time lapse 0.39016s	 ll change 16.85825
+  Iteration 70	 time lapse 0.38225s	 ll change 5.79403
+  Iteration 80	 time lapse 0.35917s	 ll change 1.67585
+  Iteration 90	 time lapse 0.38154s	 ll change 0.42535
+Initialization converged: False	 time lapse 3.90823s	 ll -211624.25256
+The number of components is: 2 
+The lower bound value is: -211624.252564 
+
+Initialization 0
+  Iteration 0	 time lapse 0.10221s	 ll change inf
+  Iteration 10	 time lapse 0.53992s	 ll change 473.79203
+  Iteration 20	 time lapse 0.36670s	 ll change 235.46641
+  Iteration 30	 time lapse 0.37817s	 ll change 110.74437
+  Iteration 40	 time lapse 0.38465s	 ll change 106.52165
+  Iteration 50	 time lapse 0.35151s	 ll change 0.12202
+  Iteration 60	 time lapse 0.45886s	 ll change 0.00866
+  Iteration 70	 time lapse 0.51121s	 ll change 0.00102
+Initialization converged: True	 time lapse 3.14434s	 ll -190623.55515
+The number of components is: 3 
+The lower bound value is: -190623.555152 
+
+Initialization 0
+  Iteration 0	 time lapse 0.14820s	 ll change inf
+  Iteration 10	 time lapse 0.73326s	 ll change 625.21429
+  Iteration 20	 time lapse 0.69782s	 ll change 465.38237
+  Iteration 30	 time lapse 0.62429s	 ll change 97.51294
+  Iteration 40	 time lapse 0.66973s	 ll change 112.68787
+  Iteration 50	 time lapse 0.67577s	 ll change 43.23117
+  Iteration 60	 time lapse 0.66772s	 ll change 18.10132
+  Iteration 70	 time lapse 0.66332s	 ll change 9.14751
+  Iteration 80	 time lapse 0.70333s	 ll change 4.49254
+  Iteration 90	 time lapse 0.70284s	 ll change 2.15520
+Initialization converged: False	 time lapse 6.90841s	 ll -180098.49054
+The number of components is: 4 
+The lower bound value is: -180098.490536 
+
+Initialization 0
+  Iteration 0	 time lapse 0.26112s	 ll change inf
+  Iteration 10	 time lapse 0.87382s	 ll change 612.25673
+  Iteration 20	 time lapse 0.92086s	 ll change 245.06096
+  Iteration 30	 time lapse 0.86860s	 ll change 224.47285
+  Iteration 40	 time lapse 0.85425s	 ll change 88.43713
+  Iteration 50	 time lapse 0.84715s	 ll change 37.29717
+  Iteration 60	 time lapse 0.87770s	 ll change 9.64625
+  Iteration 70	 time lapse 0.85505s	 ll change 2.05661
+  Iteration 80	 time lapse 0.85676s	 ll change 0.43290
+  Iteration 90	 time lapse 0.86137s	 ll change 0.10315
+Initialization converged: False	 time lapse 8.84309s	 ll -174908.87759
+The number of components is: 5 
+The lower bound value is: -174908.877586 
+
+Initialization 0
+  Iteration 0	 time lapse 0.25674s	 ll change inf
+  Iteration 10	 time lapse 1.03662s	 ll change 872.20603
+  Iteration 20	 time lapse 1.01388s	 ll change 318.20952
+  Iteration 30	 time lapse 0.99861s	 ll change 107.38786
+  Iteration 40	 time lapse 1.02024s	 ll change 55.07106
+  Iteration 50	 time lapse 0.99628s	 ll change 19.27580
+  Iteration 60	 time lapse 1.00617s	 ll change 6.35957
+  Iteration 70	 time lapse 1.04076s	 ll change 3.63658
+  Iteration 80	 time lapse 1.00884s	 ll change 2.96256
+  Iteration 90	 time lapse 1.02117s	 ll change 2.58951
+Initialization converged: False	 time lapse 10.33697s	 ll -172499.39625
+The number of components is: 6 
+The lower bound value is: -172499.396254 
+
+Initialization 0
+  Iteration 0	 time lapse 0.19972s	 ll change inf
+  Iteration 10	 time lapse 0.92082s	 ll change 710.38052
+  Iteration 20	 time lapse 0.90994s	 ll change 74.04283
+  Iteration 30	 time lapse 0.97399s	 ll change 34.90977
+  Iteration 40	 time lapse 1.21969s	 ll change 17.76848
+  Iteration 50	 time lapse 1.21969s	 ll change 8.06680
+  Iteration 60	 time lapse 1.02947s	 ll change 3.82219
+  Iteration 70	 time lapse 0.86593s	 ll change 2.16565
+  Iteration 80	 time lapse 0.91211s	 ll change 1.49566
+  Iteration 90	 time lapse 0.87840s	 ll change 1.19140
+Initialization converged: False	 time lapse 9.95405s	 ll -171749.17404
+The number of components is: 7 
+The lower bound value is: -171749.174043 
+
+Initialization 0
+  Iteration 0	 time lapse 0.32756s	 ll change inf
+  Iteration 10	 time lapse 1.09405s	 ll change 506.72713
+  Iteration 20	 time lapse 1.00690s	 ll change 52.98744
+  Iteration 30	 time lapse 1.06145s	 ll change 25.74257
+  Iteration 40	 time lapse 0.99628s	 ll change 14.37699
+  Iteration 50	 time lapse 0.93409s	 ll change 7.77725
+  Iteration 60	 time lapse 1.01110s	 ll change 4.51048
+  Iteration 70	 time lapse 1.32488s	 ll change 2.86917
+  Iteration 80	 time lapse 1.33350s	 ll change 2.00893
+  Iteration 90	 time lapse 1.31746s	 ll change 1.57496
+Initialization converged: False	 time lapse 11.58987s	 ll -171712.26263
+The number of components is: 8 
+The lower bound value is: -171712.262628 
+
+Initialization 0
+  Iteration 0	 time lapse 0.78487s	 ll change inf
+  Iteration 10	 time lapse 1.52496s	 ll change 254.51274
+  Iteration 20	 time lapse 1.52584s	 ll change 21.05736
+  Iteration 30	 time lapse 1.46623s	 ll change 12.33948
+  Iteration 40	 time lapse 1.51265s	 ll change 9.59495
+  Iteration 50	 time lapse 1.48407s	 ll change 7.79240
+  Iteration 60	 time lapse 1.48813s	 ll change 6.14735
+  Iteration 70	 time lapse 1.49737s	 ll change 4.74530
+  Iteration 80	 time lapse 1.50627s	 ll change 3.82763
+  Iteration 90	 time lapse 1.50291s	 ll change 3.35937
+Initialization converged: False	 time lapse 15.63807s	 ll -171411.68137
+The number of components is: 9 
+The lower bound value is: -171411.681374 
+
+Initialization 0
+  Iteration 0	 time lapse 0.39530s	 ll change inf
+  Iteration 10	 time lapse 1.26842s	 ll change 143.75404
+  Iteration 20	 time lapse 1.25656s	 ll change 18.22497
+  Iteration 30	 time lapse 1.23902s	 ll change 10.22450
+  Iteration 40	 time lapse 1.43378s	 ll change 6.43834
+  Iteration 50	 time lapse 1.65746s	 ll change 4.38194
+  Iteration 60	 time lapse 1.63752s	 ll change 3.20784
+  Iteration 70	 time lapse 1.54367s	 ll change 2.40702
+  Iteration 80	 time lapse 1.35321s	 ll change 1.83782
+  Iteration 90	 time lapse 1.23254s	 ll change 1.46732
+Initialization converged: False	 time lapse 14.17992s	 ll -171196.16983
+The number of components is: 10 
+The lower bound value is: -171196.169826 
+
+Initialization 0
+  Iteration 0	 time lapse 0.43212s	 ll change inf
+  Iteration 10	 time lapse 1.52185s	 ll change 112.67921
+  Iteration 20	 time lapse 1.60451s	 ll change 13.87063
+  Iteration 30	 time lapse 1.82725s	 ll change 7.61322
+  Iteration 40	 time lapse 1.81771s	 ll change 5.42213
+  Iteration 50	 time lapse 1.84851s	 ll change 4.22532
+  Iteration 60	 time lapse 1.93466s	 ll change 3.39311
+  Iteration 70	 time lapse 1.97675s	 ll change 2.69920
+  Iteration 80	 time lapse 1.88361s	 ll change 2.13164
+  Iteration 90	 time lapse 1.90295s	 ll change 1.72686
+Initialization converged: False	 time lapse 18.41424s	 ll -171212.34096
+The number of components is: 11 
+The lower bound value is: -171212.340960 
+
+Initialization 0
+  Iteration 0	 time lapse 0.44907s	 ll change inf
+  Iteration 10	 time lapse 1.98000s	 ll change 111.51117
+  Iteration 20	 time lapse 2.12801s	 ll change 14.22547
+  Iteration 30	 time lapse 2.13799s	 ll change 8.13899
+  Iteration 40	 time lapse 2.08760s	 ll change 6.07558
+  Iteration 50	 time lapse 2.13284s	 ll change 4.90473
+  Iteration 60	 time lapse 2.15470s	 ll change 4.06228
+  Iteration 70	 time lapse 2.13385s	 ll change 3.35077
+  Iteration 80	 time lapse 2.09809s	 ll change 2.75534
+  Iteration 90	 time lapse 2.00949s	 ll change 2.30764
+Initialization converged: False	 time lapse 21.01803s	 ll -171226.62815
+The number of components is: 12 
+The lower bound value is: -171226.628154 
+
+Initialization 0
+  Iteration 0	 time lapse 0.40902s	 ll change inf
+  Iteration 10	 time lapse 2.10275s	 ll change 48.44853
+  Iteration 20	 time lapse 2.11212s	 ll change 11.85435
+  Iteration 30	 time lapse 2.21407s	 ll change 7.82950
+  Iteration 40	 time lapse 2.31636s	 ll change 5.56439
+  Iteration 50	 time lapse 2.30701s	 ll change 3.91089
+  Iteration 60	 time lapse 2.36149s	 ll change 2.72025
+  Iteration 70	 time lapse 2.22701s	 ll change 1.89361
+  Iteration 80	 time lapse 1.73601s	 ll change 1.33841
+  Iteration 90	 time lapse 2.04004s	 ll change 0.97449
+Initialization converged: False	 time lapse 21.73482s	 ll -171010.46665
+The number of components is: 13 
+The lower bound value is: -171010.466648 
+
+Initialization 0
+  Iteration 0	 time lapse 0.65278s	 ll change inf
+  Iteration 10	 time lapse 2.13938s	 ll change 54.76015
+  Iteration 20	 time lapse 1.65398s	 ll change 14.43650
+  Iteration 30	 time lapse 1.64477s	 ll change 9.25173
+  Iteration 40	 time lapse 1.75241s	 ll change 6.40178
+  Iteration 50	 time lapse 2.20224s	 ll change 4.45396
+  Iteration 60	 time lapse 2.34158s	 ll change 3.11095
+  Iteration 70	 time lapse 2.36575s	 ll change 2.19325
+  Iteration 80	 time lapse 2.50514s	 ll change 1.57394
+  Iteration 90	 time lapse 2.50504s	 ll change 1.16127
+Initialization converged: False	 time lapse 21.92496s	 ll -171049.10354
+The number of components is: 14 
+The lower bound value is: -171049.103538 
+
+Initialization 0
+  Iteration 0	 time lapse 0.53873s	 ll change inf
+  Iteration 10	 time lapse 2.46202s	 ll change 56.10634
+  Iteration 20	 time lapse 2.48141s	 ll change 16.15622
+  Iteration 30	 time lapse 2.64902s	 ll change 10.15642
+  Iteration 40	 time lapse 2.66101s	 ll change 6.96200
+  Iteration 50	 time lapse 2.68138s	 ll change 4.87882
+  Iteration 60	 time lapse 2.55271s	 ll change 3.46518
+  Iteration 70	 time lapse 2.52724s	 ll change 2.49320
+  Iteration 80	 time lapse 2.60042s	 ll change 1.82311
+  Iteration 90	 time lapse 2.57076s	 ll change 1.36096
+Initialization converged: False	 time lapse 26.03814s	 ll -171073.75148
+The number of components is: 15 
+The lower bound value is: -171073.751484 
+
+Initialization 0
+  Iteration 0	 time lapse 0.69038s	 ll change inf
+  Iteration 10	 time lapse 2.84604s	 ll change 67.50536
+  Iteration 20	 time lapse 2.83940s	 ll change 19.68344
+  Iteration 30	 time lapse 2.84401s	 ll change 11.50147
+  Iteration 40	 time lapse 2.33578s	 ll change 7.42535
+  Iteration 50	 time lapse 2.57827s	 ll change 5.04776
+  Iteration 60	 time lapse 2.03832s	 ll change 3.61065
+  Iteration 70	 time lapse 2.01393s	 ll change 2.68364
+  Iteration 80	 time lapse 2.57772s	 ll change 2.05963
+  Iteration 90	 time lapse 2.79968s	 ll change 1.62906
+Initialization converged: False	 time lapse 26.12815s	 ll -171118.90104
+The number of components is: 16 
+The lower bound value is: -171118.901044 
+
+Initialization 0
+  Iteration 0	 time lapse 0.82913s	 ll change inf
+  Iteration 10	 time lapse 2.50782s	 ll change 81.75119
+  Iteration 20	 time lapse 2.19472s	 ll change 23.82554
+  Iteration 30	 time lapse 2.30769s	 ll change 13.39462
+  Iteration 40	 time lapse 2.97644s	 ll change 8.55879
+  Iteration 50	 time lapse 2.94276s	 ll change 5.66343
+  Iteration 60	 time lapse 3.01026s	 ll change 3.85150
+  Iteration 70	 time lapse 2.99725s	 ll change 2.69659
+  Iteration 80	 time lapse 2.95399s	 ll change 1.94455
+  Iteration 90	 time lapse 2.81611s	 ll change 1.44807
+Initialization converged: False	 time lapse 28.10592s	 ll -171164.70386
+The number of components is: 17 
+The lower bound value is: -171164.703863 
+
+Initialization 0
+  Iteration 0	 time lapse 0.86313s	 ll change inf
+  Iteration 10	 time lapse 3.09906s	 ll change 78.26546
+  Iteration 20	 time lapse 3.08483s	 ll change 28.41466
+  Iteration 30	 time lapse 3.04977s	 ll change 14.58295
+  Iteration 40	 time lapse 3.12296s	 ll change 8.42308
+  Iteration 50	 time lapse 3.15244s	 ll change 5.16184
+  Iteration 60	 time lapse 2.92028s	 ll change 3.51929
+  Iteration 70	 time lapse 3.05074s	 ll change 2.66106
+  Iteration 80	 time lapse 3.04826s	 ll change 2.17466
+  Iteration 90	 time lapse 3.11135s	 ll change 1.88855
+Initialization converged: False	 time lapse 31.29742s	 ll -171258.00914
+The number of components is: 18 
+The lower bound value is: -171258.009136 
+
+Initialization 0
+  Iteration 0	 time lapse 0.94726s	 ll change inf
+  Iteration 10	 time lapse 3.12589s	 ll change 103.30032
+  Iteration 20	 time lapse 3.06562s	 ll change 33.02559
+  Iteration 30	 time lapse 3.29609s	 ll change 17.31504
+  Iteration 40	 time lapse 3.37070s	 ll change 10.24843
+  Iteration 50	 time lapse 3.36251s	 ll change 6.33416
+  Iteration 60	 time lapse 3.34780s	 ll change 4.13072
+  Iteration 70	 time lapse 3.35633s	 ll change 2.87675
+  Iteration 80	 time lapse 3.27231s	 ll change 2.12255
+  Iteration 90	 time lapse 3.24589s	 ll change 1.63754
+Initialization converged: False	 time lapse 33.48887s	 ll -171232.86524
+The number of components is: 19 
+The lower bound value is: -171232.865237 
+
+Initialization 0
+  Iteration 0	 time lapse 0.60421s	 ll change inf
+  Iteration 10	 time lapse 2.73712s	 ll change 111.58943
+  Iteration 20	 time lapse 2.53150s	 ll change 36.61062
+  Iteration 30	 time lapse 3.27912s	 ll change 20.35512
+  Iteration 40	 time lapse 2.91685s	 ll change 11.36926
+  Iteration 50	 time lapse 2.44541s	 ll change 6.59770
+  Iteration 60	 time lapse 3.18770s	 ll change 4.33503
+  Iteration 70	 time lapse 3.17165s	 ll change 3.16885
+  Iteration 80	 time lapse 2.62385s	 ll change 2.48824
+  Iteration 90	 time lapse 2.45951s	 ll change 2.05263
+Initialization converged: False	 time lapse 28.94652s	 ll -171297.15792
+The number of components is: 20 
+The lower bound value is: -171297.157921 
+
+Initialization 0
+  Iteration 0	 time lapse 0.92441s	 ll change inf
+  Iteration 10	 time lapse 3.74304s	 ll change 118.65485
+  Iteration 20	 time lapse 3.40928s	 ll change 39.63054
+  Iteration 30	 time lapse 3.33718s	 ll change 19.82576
+  Iteration 40	 time lapse 3.48364s	 ll change 10.80096
+  Iteration 50	 time lapse 3.73636s	 ll change 6.48893
+  Iteration 60	 time lapse 3.72148s	 ll change 4.45300
+  Iteration 70	 time lapse 3.71229s	 ll change 3.38017
+  Iteration 80	 time lapse 3.65602s	 ll change 2.73346
+  Iteration 90	 time lapse 3.67638s	 ll change 2.28465
+Initialization converged: False	 time lapse 36.73094s	 ll -171316.43362
+The number of components is: 21 
+The lower bound value is: -171316.433624 
+
+Initialization 0
+  Iteration 0	 time lapse 0.93513s	 ll change inf
+  Iteration 10	 time lapse 3.55629s	 ll change 137.01823
+  Iteration 20	 time lapse 3.49605s	 ll change 46.12966
+  Iteration 30	 time lapse 3.49142s	 ll change 24.92878
+  Iteration 40	 time lapse 3.25453s	 ll change 13.54076
+  Iteration 50	 time lapse 3.53696s	 ll change 7.65820
+  Iteration 60	 time lapse 3.89279s	 ll change 4.93258
+  Iteration 70	 time lapse 3.30881s	 ll change 3.56423
+  Iteration 80	 time lapse 3.87545s	 ll change 2.77322
+  Iteration 90	 time lapse 3.81495s	 ll change 2.25230
+Initialization converged: False	 time lapse 36.67898s	 ll -171428.80997
+The number of components is: 22 
+The lower bound value is: -171428.809971 
+
+Initialization 0
+  Iteration 0	 time lapse 1.24619s	 ll change inf
+  Iteration 10	 time lapse 3.86460s	 ll change 151.92357
+  Iteration 20	 time lapse 3.83586s	 ll change 49.52906
+  Iteration 30	 time lapse 3.59513s	 ll change 26.79097
+  Iteration 40	 time lapse 3.57110s	 ll change 14.79892
+  Iteration 50	 time lapse 3.57192s	 ll change 8.11913
+  Iteration 60	 time lapse 3.58560s	 ll change 4.94448
+  Iteration 70	 time lapse 3.61279s	 ll change 3.42382
+  Iteration 80	 time lapse 3.60158s	 ll change 2.60073
+  Iteration 90	 time lapse 3.69567s	 ll change 2.08053
+Initialization converged: False	 time lapse 37.94931s	 ll -171476.78652
+The number of components is: 23 
+The lower bound value is: -171476.786518 
+
+Initialization 0
+  Iteration 0	 time lapse 0.97808s	 ll change inf
+  Iteration 10	 time lapse 3.78123s	 ll change 163.35027
+  Iteration 20	 time lapse 3.86069s	 ll change 52.47834
+  Iteration 30	 time lapse 3.75369s	 ll change 27.22397
+  Iteration 40	 time lapse 3.21494s	 ll change 14.58287
+  Iteration 50	 time lapse 3.23713s	 ll change 8.05915
+  Iteration 60	 time lapse 3.52985s	 ll change 5.03859
+  Iteration 70	 time lapse 4.23546s	 ll change 3.54068
+  Iteration 80	 time lapse 3.82149s	 ll change 2.66286
+  Iteration 90	 time lapse 3.91255s	 ll change 2.06838
+Initialization converged: False	 time lapse 38.26978s	 ll -171487.21215/home/student/anaconda3/lib/python3.6/site-packages/sklearn/mixture/base.py:237: ConvergenceWarning: Initialization 1 did not converge. Try different init parameters, or increase max_iter, tol or check for degenerate data.
+  % (init + 1), ConvergenceWarning)
+
+The number of components is: 24 
+The lower bound value is: -171487.212147 
+
+Initialization 0
+  Iteration 0	 time lapse 1.19806s	 ll change inf
+  Iteration 10	 time lapse 3.60685s	 ll change 170.93661
+  Iteration 20	 time lapse 3.84787s	 ll change 52.61891
+  Iteration 30	 time lapse 3.83094s	 ll change 29.51601
+  Iteration 40	 time lapse 4.42001s	 ll change 16.85874
+  Iteration 50	 time lapse 4.38644s	 ll change 9.31125
+  Iteration 60	 time lapse 4.47280s	 ll change 5.61978
+  Iteration 70	 time lapse 4.15875s	 ll change 3.81069
+  Iteration 80	 time lapse 3.80142s	 ll change 2.82540
+  Iteration 90	 time lapse 4.03600s	 ll change 2.23804
+Initialization converged: False	 time lapse 41.67566s	 ll -171563.60966
+The number of components is: 25 
+The lower bound value is: -171563.609660 
+
+Initialization 0
+  Iteration 0	 time lapse 1.11565s	 ll change inf
+  Iteration 10	 time lapse 3.72577s	 ll change 189.04131
+  Iteration 20	 time lapse 3.53597s	 ll change 57.65266
+  Iteration 30	 time lapse 4.43594s	 ll change 28.89298
+  Iteration 40	 time lapse 4.55996s	 ll change 15.18260
+  Iteration 50	 time lapse 4.57708s	 ll change 8.30969
+  Iteration 60	 time lapse 4.63157s	 ll change 5.21438
+  Iteration 70	 time lapse 4.51657s	 ll change 3.73227
+  Iteration 80	 time lapse 4.48612s	 ll change 2.89392
+  Iteration 90	 time lapse 4.56280s	 ll change 2.33579
+Initialization converged: False	 time lapse 44.22709s	 ll -171540.51889
+The number of components is: 26 
+The lower bound value is: -171540.518886 
+
+Initialization 0
+  Iteration 0	 time lapse 1.19837s	 ll change inf
+  Iteration 10	 time lapse 4.31825s	 ll change 194.96023
+  Iteration 20	 time lapse 3.95964s	 ll change 55.24086
+  Iteration 30	 time lapse 4.06373s	 ll change 26.67196
+  Iteration 40	 time lapse 4.15732s	 ll change 15.75185
+  Iteration 50	 time lapse 4.08287s	 ll change 12.37726
+  Iteration 60	 time lapse 4.63693s	 ll change 9.58538
+  Iteration 70	 time lapse 4.75194s	 ll change 6.07923
+  Iteration 80	 time lapse 4.49193s	 ll change 4.10562
+  Iteration 90	 time lapse 4.22498s	 ll change 3.19680
+Initialization converged: False	 time lapse 43.63835s	 ll -171579.68932
+The number of components is: 27 
+The lower bound value is: -171579.689316 
+
+Initialization 0
+  Iteration 0	 time lapse 1.05063s	 ll change inf
+  Iteration 10	 time lapse 4.05993s	 ll change 203.65499
+  Iteration 20	 time lapse 4.12690s	 ll change 58.40258
+  Iteration 30	 time lapse 4.24962s	 ll change 28.99803
+  Iteration 40	 time lapse 4.20710s	 ll change 16.78680
+  Iteration 50	 time lapse 4.08182s	 ll change 12.86137
+  Iteration 60	 time lapse 4.15801s	 ll change 10.54748
+  Iteration 70	 time lapse 4.26545s	 ll change 6.43693
+  Iteration 80	 time lapse 4.22745s	 ll change 3.94388
+  Iteration 90	 time lapse 4.24347s	 ll change 2.89567
+Initialization converged: False	 time lapse 43.07813s	 ll -171658.76933
+The number of components is: 28 
+The lower bound value is: -171658.769329 
+
+Initialization 0
+  Iteration 0	 time lapse 1.02668s	 ll change inf
+  Iteration 10	 time lapse 3.70220s	 ll change 213.30219
+  Iteration 20	 time lapse 4.10328s	 ll change 58.74858
+  Iteration 30	 time lapse 4.59741s	 ll change 28.83845
+  Iteration 40	 time lapse 4.33221s	 ll change 18.21785
+  Iteration 50	 time lapse 4.09828s	 ll change 12.30790
+  Iteration 60	 time lapse 4.41117s	 ll change 7.55278
+  Iteration 70	 time lapse 4.72246s	 ll change 5.01613
+  Iteration 80	 time lapse 5.07208s	 ll change 3.79021
+  Iteration 90	 time lapse 4.16075s	 ll change 3.07711
+Initialization converged: False	 time lapse 43.91984s	 ll -171612.61343
+The number of components is: 29 
+The lower bound value is: -171612.613435 
+
+Initialization 0
+  Iteration 0	 time lapse 1.09448s	 ll change inf
+  Iteration 10	 time lapse 4.82796s	 ll change 219.79218
+  Iteration 20	 time lapse 5.22611s	 ll change 63.24538
+  Iteration 30	 time lapse 4.70548s	 ll change 32.26942
+  Iteration 40	 time lapse 5.24446s	 ll change 18.91115
+  Iteration 50	 time lapse 5.34102s	 ll change 14.32609
+  Iteration 60	 time lapse 5.14854s	 ll change 10.00847
+  Iteration 70	 time lapse 5.14583s	 ll change 5.87969
+  Iteration 80	 time lapse 4.76727s	 ll change 3.89878
+  Iteration 90	 time lapse 4.54480s	 ll change 2.98010
+Initialization converged: False	 time lapse 50.39024s	 ll -171724.81031
+The number of components is: 30 
+The lower bound value is: -171724.810312 
+
+All lower bound values: [-237890.83128920585, -211624.25256363317, -190623.55515191416, -180098.49053629392, -174908.87758586762, -172499.39625366862, -171749.174042912, -171712.26262764973, -171411.68137357823, -171196.16982646086, -171212.34095977468, -171226.62815440685, -171010.46664819453, -171049.10353840256, -171073.75148398685, -171118.90104366519, -171164.70386287439, -171258.00913609826, -171232.86523738827, -171297.1579213959, -171316.4336243085, -171428.80997079707, -171476.78651844745, -171487.21214711689, -171563.60965988899, -171540.51888649756, -171579.68931649532, -171658.76932861723, -171612.61343461269, -171724.81031226373]
+Initialization 0
+  Iteration 0	 time lapse 0.05544s	 ll change inf
+Initialization converged: True	 time lapse 0.06428s	 ll -237304.54173
+The number of components is: 1 
+The lower bound value is: -237304.541731 
+
+Initialization 0
+  Iteration 0	 time lapse 0.12155s	 ll change inf
+  Iteration 10	 time lapse 0.40854s	 ll change 88.51124
+  Iteration 20	 time lapse 0.42238s	 ll change 110.71204
+  Iteration 30	 time lapse 0.40237s	 ll change 102.11455
+  Iteration 40	 time lapse 0.37838s	 ll change 66.71436
+  Iteration 50	 time lapse 0.35971s	 ll change 31.83175
+  Iteration 60	 time lapse 0.39242s	 ll change 14.02535
+  Iteration 70	 time lapse 0.38550s	 ll change 4.46349
+  Iteration 80	 time lapse 0.34946s	 ll change 0.99592
+  Iteration 90	 time lapse 0.35838s	 ll change 0.18266
+Initialization converged: False	 time lapse 3.92699s	 ll -210948.14331
+The number of components is: 2 
+The lower bound value is: -210948.143311 
+
+Initialization 0
+  Iteration 0	 time lapse 0.13114s	 ll change inf
+  Iteration 10	 time lapse 0.56251s	 ll change 453.62648
+  Iteration 20	 time lapse 0.53424s	 ll change 156.41322
+  Iteration 30	 time lapse 0.53407s	 ll change 106.46057
+  Iteration 40	 time lapse 0.51991s	 ll change 219.38957
+  Iteration 50	 time lapse 0.53272s	 ll change 1.84925
+  Iteration 60	 time lapse 0.56632s	 ll change 0.01913
+  Iteration 70	 time lapse 0.56569s	 ll change 0.00185
+Initialization converged: True	 time lapse 4.08935s	 ll -191183.61354
+The number of components is: 3 
+The lower bound value is: -191183.613535 
+
+Initialization 0
+  Iteration 0	 time lapse 0.18243s	 ll change inf
+  Iteration 10	 time lapse 0.72817s	 ll change 528.51994
+  Iteration 20	 time lapse 0.69871s	 ll change 396.79888
+  Iteration 30	 time lapse 0.70807s	 ll change 90.24889
+  Iteration 40	 time lapse 0.71061s	 ll change 83.76703
+  Iteration 50	 time lapse 0.71948s	 ll change 35.32507
+  Iteration 60	 time lapse 0.71082s	 ll change 21.46645
+  Iteration 70	 time lapse 0.66068s	 ll change 11.96306
+  Iteration 80	 time lapse 0.68268s	 ll change 5.61648
+  Iteration 90	 time lapse 0.66603s	 ll change 2.35501
+Initialization converged: False	 time lapse 7.09791s	 ll -181253.27782
+The number of components is: 4 
+The lower bound value is: -181253.277815 
+
+Initialization 0
+  Iteration 0	 time lapse 0.29748s	 ll change inf
+  Iteration 10	 time lapse 0.92641s	 ll change 595.27806
+  Iteration 20	 time lapse 0.91260s	 ll change 277.65018
+  Iteration 30	 time lapse 0.93795s	 ll change 161.83269
+  Iteration 40	 time lapse 0.91023s	 ll change 66.36817
+  Iteration 50	 time lapse 0.97467s	 ll change 24.86066
+  Iteration 60	 time lapse 0.91492s	 ll change 6.77071
+  Iteration 70	 time lapse 0.91603s	 ll change 1.78787
+  Iteration 80	 time lapse 0.94494s	 ll change 0.50571
+  Iteration 90	 time lapse 0.91793s	 ll change 0.16265
+Initialization converged: False	 time lapse 9.45562s	 ll -176174.85096
+The number of components is: 5 
+The lower bound value is: -176174.850956 
+
+Initialization 0
+  Iteration 0	 time lapse 0.36174s	 ll change inf
+  Iteration 10	 time lapse 1.04645s	 ll change 665.31976
+  Iteration 20	 time lapse 1.03199s	 ll change 278.71429
+  Iteration 30	 time lapse 0.99839s	 ll change 107.27885
+  Iteration 40	 time lapse 1.01647s	 ll change 59.58004
+  Iteration 50	 time lapse 0.98831s	 ll change 36.61003
+  Iteration 60	 time lapse 1.05535s	 ll change 17.07008
+  Iteration 70	 time lapse 1.05543s	 ll change 7.69507
+  Iteration 80	 time lapse 1.00147s	 ll change 4.93400
+  Iteration 90	 time lapse 1.06835s	 ll change 3.99177
+Initialization converged: False	 time lapse 10.54541s	 ll -173969.11258
+The number of components is: 6 
+The lower bound value is: -173969.112584 
+
+Initialization 0
+  Iteration 0	 time lapse 0.34088s	 ll change inf
+  Iteration 10	 time lapse 1.14442s	 ll change 638.53538
+  Iteration 20	 time lapse 1.17762s	 ll change 75.20039
+  Iteration 30	 time lapse 1.21179s	 ll change 42.52088
+  Iteration 40	 time lapse 1.23370s	 ll change 20.76285
+  Iteration 50	 time lapse 1.21950s	 ll change 8.68672
+  Iteration 60	 time lapse 1.20395s	 ll change 4.09011
+  Iteration 70	 time lapse 1.22894s	 ll change 2.40195
+  Iteration 80	 time lapse 1.18652s	 ll change 1.69871
+  Iteration 90	 time lapse 1.16811s	 ll change 1.35530
+Initialization converged: False	 time lapse 12.20631s	 ll -173208.56595
+The number of components is: 7 
+The lower bound value is: -173208.565949 
+
+Initialization 0
+  Iteration 0	 time lapse 0.35250s	 ll change inf
+  Iteration 10	 time lapse 1.41562s	 ll change 402.72802
+  Iteration 20	 time lapse 1.40869s	 ll change 33.18136
+  Iteration 30	 time lapse 1.35562s	 ll change 16.22876
+  Iteration 40	 time lapse 1.33505s	 ll change 9.37731
+  Iteration 50	 time lapse 1.33493s	 ll change 5.73099
+  Iteration 60	 time lapse 1.34508s	 ll change 3.67709
+  Iteration 70	 time lapse 1.38236s	 ll change 2.44085
+  Iteration 80	 time lapse 1.34774s	 ll change 1.70146
+  Iteration 90	 time lapse 1.40350s	 ll change 1.29111
+Initialization converged: False	 time lapse 13.93233s	 ll -173106.70595
+The number of components is: 8 
+The lower bound value is: -173106.705950 
+
+Initialization 0
+  Iteration 0	 time lapse 0.67377s	 ll change inf
+  Iteration 10	 time lapse 1.57962s	 ll change 193.96994
+  Iteration 20	 time lapse 1.56701s	 ll change 16.36631
+  Iteration 30	 time lapse 1.61199s	 ll change 9.77246
+  Iteration 40	 time lapse 1.60447s	 ll change 7.32010
+  Iteration 50	 time lapse 1.57016s	 ll change 5.81513
+  Iteration 60	 time lapse 1.59389s	 ll change 4.57092
+  Iteration 70	 time lapse 1.49151s	 ll change 3.44814
+  Iteration 80	 time lapse 1.52686s	 ll change 2.58983
+  Iteration 90	 time lapse 1.49916s	 ll change 2.08095
+Initialization converged: False	 time lapse 16.11693s	 ll -173014.73665
+The number of components is: 9 
+The lower bound value is: -173014.736650 
+
+Initialization 0
+  Iteration 0	 time lapse 0.56608s	 ll change inf
+  Iteration 10	 time lapse 1.71843s	 ll change 106.42188
+  Iteration 20	 time lapse 1.72552s	 ll change 16.05959
+  Iteration 30	 time lapse 1.74713s	 ll change 9.68032
+  Iteration 40	 time lapse 1.74304s	 ll change 6.19984
+  Iteration 50	 time lapse 1.76056s	 ll change 3.87761
+  Iteration 60	 time lapse 1.76625s	 ll change 2.48644
+  Iteration 70	 time lapse 1.71798s	 ll change 1.64589
+  Iteration 80	 time lapse 1.70484s	 ll change 1.11386
+  Iteration 90	 time lapse 1.73644s	 ll change 0.77910
+Initialization converged: False	 time lapse 17.75665s	 ll -172787.00875
+The number of components is: 10 
+The lower bound value is: -172787.008749 
+
+Initialization 0
+  Iteration 0	 time lapse 0.52997s	 ll change inf
+  Iteration 10	 time lapse 1.81367s	 ll change 76.37583
+  Iteration 20	 time lapse 1.83649s	 ll change 12.38737
+  Iteration 30	 time lapse 1.91089s	 ll change 8.54136
+  Iteration 40	 time lapse 1.91371s	 ll change 7.54979
+  Iteration 50	 time lapse 1.93774s	 ll change 7.21628
+  Iteration 60	 time lapse 1.89628s	 ll change 7.08756
+  Iteration 70	 time lapse 1.82701s	 ll change 6.99987
+  Iteration 80	 time lapse 1.79580s	 ll change 6.83704
+  Iteration 90	 time lapse 1.91333s	 ll change 6.47198
+Initialization converged: False	 time lapse 19.03812s	 ll -172759.07921
+The number of components is: 11 
+The lower bound value is: -172759.079214 
+
+Initialization 0
+  Iteration 0	 time lapse 0.57293s	 ll change inf
+  Iteration 10	 time lapse 2.06894s	 ll change 78.01318
+  Iteration 20	 time lapse 2.05184s	 ll change 11.34583
+  Iteration 30	 time lapse 2.00883s	 ll change 6.70667
+  Iteration 40	 time lapse 2.05935s	 ll change 4.93909
+  Iteration 50	 time lapse 2.03466s	 ll change 3.83455
+  Iteration 60	 time lapse 2.04871s	 ll change 3.02616
+  Iteration 70	 time lapse 2.15037s	 ll change 2.36714
+  Iteration 80	 time lapse 2.15363s	 ll change 1.81299
+  Iteration 90	 time lapse 2.10404s	 ll change 1.37180
+Initialization converged: False	 time lapse 21.12935s	 ll -172849.30986
+The number of components is: 12 
+The lower bound value is: -172849.309858 
+
+Initialization 0
+  Iteration 0	 time lapse 0.55446s	 ll change inf
+  Iteration 10	 time lapse 2.14874s	 ll change 45.23842
+  Iteration 20	 time lapse 2.19604s	 ll change 12.01135
+  Iteration 30	 time lapse 2.13843s	 ll change 7.45840
+  Iteration 40	 time lapse 2.20157s	 ll change 5.49328
+  Iteration 50	 time lapse 2.18072s	 ll change 4.15498
+  Iteration 60	 time lapse 2.23701s	 ll change 3.14285
+  Iteration 70	 time lapse 2.33472s	 ll change 2.36003
+  Iteration 80	 time lapse 2.14599s	 ll change 1.75719
+  Iteration 90	 time lapse 2.22439s	 ll change 1.30383
+Initialization converged: False	 time lapse 22.29128s	 ll -172623.85736
+The number of components is: 13 
+The lower bound value is: -172623.857357 
+
+Initialization 0
+  Iteration 0	 time lapse 0.71328s	 ll change inf
+  Iteration 10	 time lapse 2.40057s	 ll change 49.12599
+  Iteration 20	 time lapse 2.43960s	 ll change 13.93160
+  Iteration 30	 time lapse 2.43467s	 ll change 8.23754
+  Iteration 40	 time lapse 2.54835s	 ll change 5.79685
+  Iteration 50	 time lapse 2.51356s	 ll change 4.24373
+  Iteration 60	 time lapse 2.40219s	 ll change 3.14812
+  Iteration 70	 time lapse 2.34414s	 ll change 2.34556
+  Iteration 80	 time lapse 2.40539s	 ll change 1.75139
+  Iteration 90	 time lapse 2.37855s	 ll change 1.31680
+Initialization converged: False	 time lapse 24.68916s	 ll -172657.17837
+The number of components is: 14 
+The lower bound value is: -172657.178375 
+
+Initialization 0
+  Iteration 0	 time lapse 0.92340s	 ll change inf
+  Iteration 10	 time lapse 2.59792s	 ll change 61.93573
+  Iteration 20	 time lapse 2.52258s	 ll change 17.95980
+  Iteration 30	 time lapse 2.61042s	 ll change 10.67825
+  Iteration 40	 time lapse 2.57345s	 ll change 7.45451
+  Iteration 50	 time lapse 2.63988s	 ll change 5.41369
+  Iteration 60	 time lapse 2.43788s	 ll change 4.05092
+  Iteration 70	 time lapse 2.46217s	 ll change 3.09211
+  Iteration 80	 time lapse 2.59050s	 ll change 2.38525
+  Iteration 90	 time lapse 2.59221s	 ll change 1.86175
+Initialization converged: False	 time lapse 26.32467s	 ll -172710.25501
+The number of components is: 15 
+The lower bound value is: -172710.255014 
+
+Initialization 0
+  Iteration 0	 time lapse 0.63584s	 ll change inf
+  Iteration 10	 time lapse 2.85854s	 ll change 66.00848
+  Iteration 20	 time lapse 2.76223s	 ll change 22.17179
+  Iteration 30	 time lapse 2.67494s	 ll change 12.65561
+  Iteration 40	 time lapse 2.85837s	 ll change 8.34433
+  Iteration 50	 time lapse 2.82531s	 ll change 5.81921
+  Iteration 60	 time lapse 2.83920s	 ll change 4.18885
+  Iteration 70	 time lapse 2.73890s	 ll change 3.07347
+  Iteration 80	 time lapse 2.77275s	 ll change 2.28742
+  Iteration 90	 time lapse 2.71625s	 ll change 1.73085
+Initialization converged: False	 time lapse 28.15774s	 ll -172723.74720
+The number of components is: 16 
+The lower bound value is: -172723.747202 
+
+Initialization 0
+  Iteration 0	 time lapse 1.04760s	 ll change inf
+  Iteration 10	 time lapse 2.96450s	 ll change 79.87459
+  Iteration 20	 time lapse 2.98259s	 ll change 26.06307
+  Iteration 30	 time lapse 2.89759s	 ll change 13.90363
+  Iteration 40	 time lapse 2.98485s	 ll change 8.74703
+  Iteration 50	 time lapse 2.88776s	 ll change 5.90328
+  Iteration 60	 time lapse 3.00079s	 ll change 4.19019
+  Iteration 70	 time lapse 2.94556s	 ll change 3.08657
+  Iteration 80	 time lapse 3.03247s	 ll change 2.33185
+  Iteration 90	 time lapse 2.92486s	 ll change 1.80388
+Initialization converged: False	 time lapse 30.31219s	 ll -172779.14509
+The number of components is: 17 
+The lower bound value is: -172779.145087 
+
+Initialization 0
+  Iteration 0	 time lapse 1.03844s	 ll change inf
+  Iteration 10	 time lapse 3.19380s	 ll change 93.05644
+  Iteration 20	 time lapse 3.07993s	 ll change 29.80883
+  Iteration 30	 time lapse 3.09499s	 ll change 15.40760
+  Iteration 40	 time lapse 3.11028s	 ll change 9.46664
+  Iteration 50	 time lapse 3.05497s	 ll change 6.22472
+  Iteration 60	 time lapse 3.17211s	 ll change 4.28598
+  Iteration 70	 time lapse 3.09982s	 ll change 3.07877
+  Iteration 80	 time lapse 3.07181s	 ll change 2.29613
+  Iteration 90	 time lapse 3.07471s	 ll change 1.77029
+Initialization converged: False	 time lapse 31.94339s	 ll -172813.86722
+The number of components is: 18 
+The lower bound value is: -172813.867218 
+
+Initialization 0
+  Iteration 0	 time lapse 0.73657s	 ll change inf
+  Iteration 10	 time lapse 3.51761s	 ll change 105.54391
+  Iteration 20	 time lapse 3.29341s	 ll change 35.08085
+  Iteration 30	 time lapse 3.30927s	 ll change 17.72415
+  Iteration 40	 time lapse 3.27757s	 ll change 10.58525
+  Iteration 50	 time lapse 3.32336s	 ll change 6.83046
+  Iteration 60	 time lapse 3.34433s	 ll change 4.63782
+  Iteration 70	 time lapse 3.30977s	 ll change 3.28913
+  Iteration 80	 time lapse 3.40665s	 ll change 2.43148
+  Iteration 90	 time lapse 3.28045s	 ll change 1.87201
+Initialization converged: False	 time lapse 33.76115s	 ll -172834.23726
+The number of components is: 19 
+The lower bound value is: -172834.237257 
+
+Initialization 0
+  Iteration 0	 time lapse 1.10162s	 ll change inf
+  Iteration 10	 time lapse 3.51011s	 ll change 111.58626
+  Iteration 20	 time lapse 3.52191s	 ll change 37.25051
+  Iteration 30	 time lapse 3.43085s	 ll change 18.14570
+  Iteration 40	 time lapse 3.45370s	 ll change 9.97447
+  Iteration 50	 time lapse 3.52135s	 ll change 6.11545
+  Iteration 60	 time lapse 3.45862s	 ll change 4.17569
+  Iteration 70	 time lapse 3.49835s	 ll change 3.08296
+  Iteration 80	 time lapse 3.40947s	 ll change 2.40719
+  Iteration 90	 time lapse 3.48796s	 ll change 1.95755
+Initialization converged: False	 time lapse 35.47779s	 ll -172956.79701
+The number of components is: 20 
+The lower bound value is: -172956.797006 
+
+Initialization 0
+  Iteration 0	 time lapse 1.28969s	 ll change inf
+  Iteration 10	 time lapse 3.71495s	 ll change 125.02371
+  Iteration 20	 time lapse 3.60788s	 ll change 40.99906
+  Iteration 30	 time lapse 3.65671s	 ll change 19.91298
+  Iteration 40	 time lapse 3.67629s	 ll change 10.81896
+  Iteration 50	 time lapse 3.60341s	 ll change 6.64623
+  Iteration 60	 time lapse 3.42501s	 ll change 4.61869
+  Iteration 70	 time lapse 3.56466s	 ll change 3.45374
+  Iteration 80	 time lapse 3.71378s	 ll change 2.69051
+  Iteration 90	 time lapse 3.65743s	 ll change 2.15590
+Initialization converged: False	 time lapse 37.20749s	 ll -172993.58365
+The number of components is: 21 
+The lower bound value is: -172993.583646 
+
+Initialization 0
+  Iteration 0	 time lapse 1.59209s	 ll change inf
+  Iteration 10	 time lapse 3.82636s	 ll change 126.13881
+  Iteration 20	 time lapse 3.75754s	 ll change 44.81436
+  Iteration 30	 time lapse 3.74122s	 ll change 22.89185
+  Iteration 40	 time lapse 3.92290s	 ll change 12.60956
+  Iteration 50	 time lapse 3.65938s	 ll change 7.18939
+  Iteration 60	 time lapse 3.82006s	 ll change 4.61167
+  Iteration 70	 time lapse 3.75607s	 ll change 3.38436
+  Iteration 80	 time lapse 3.75018s	 ll change 2.75748
+  Iteration 90	 time lapse 3.65292s	 ll change 2.42002
+Initialization converged: False	 time lapse 38.84795s	 ll -172990.54018
+The number of components is: 22 
+The lower bound value is: -172990.540178 
+
+Initialization 0
+  Iteration 0	 time lapse 1.43689s	 ll change inf
+  Iteration 10	 time lapse 4.02787s	 ll change 134.06669
+  Iteration 20	 time lapse 3.89511s	 ll change 43.24453
+  Iteration 30	 time lapse 3.82609s	 ll change 21.30367
+  Iteration 40	 time lapse 4.08102s	 ll change 13.54973
+  Iteration 50	 time lapse 3.94012s	 ll change 10.82589
+  Iteration 60	 time lapse 3.87630s	 ll change 7.95057
+  Iteration 70	 time lapse 3.97391s	 ll change 5.06517
+  Iteration 80	 time lapse 4.01337s	 ll change 3.50751
+  Iteration 90	 time lapse 3.43246s	 ll change 2.82875
+Initialization converged: False	 time lapse 40.08163s	 ll -173044.62293
+The number of components is: 23 
+The lower bound value is: -173044.622925 
+
+Initialization 0
+  Iteration 0	 time lapse 0.95083s	 ll change inf
+  Iteration 10	 time lapse 4.14969s	 ll change 162.34527
+  Iteration 20	 time lapse 4.21923s	 ll change 52.23242
+  Iteration 30	 time lapse 4.02327s	 ll change 26.10986
+  Iteration 40	 time lapse 4.16726s	 ll change 14.25148
+  Iteration 50	 time lapse 4.18164s	 ll change 8.20793
+  Iteration 60	 time lapse 4.09401s	 ll change 5.25570
+  Iteration 70	 time lapse 4.04531s	 ll change 3.75234
+  Iteration 80	 time lapse 4.31425s	 ll change 2.88860
+  Iteration 90	 time lapse 4.10204s	 ll change 2.33369
+Initialization converged: False	 time lapse 41.98088s	 ll -173077.88610/home/student/anaconda3/lib/python3.6/site-packages/sklearn/mixture/base.py:237: ConvergenceWarning: Initialization 1 did not converge. Try different init parameters, or increase max_iter, tol or check for degenerate data.
+  % (init + 1), ConvergenceWarning)
+
+The number of components is: 24 
+The lower bound value is: -173077.886105 
+
+Initialization 0
+  Iteration 0	 time lapse 1.13917s	 ll change inf
+  Iteration 10	 time lapse 4.30506s	 ll change 170.58670
+  Iteration 20	 time lapse 4.44097s	 ll change 51.92270
+  Iteration 30	 time lapse 4.29861s	 ll change 26.66166
+  Iteration 40	 time lapse 4.40162s	 ll change 16.24177
+  Iteration 50	 time lapse 4.29502s	 ll change 9.75222
+  Iteration 60	 time lapse 4.28121s	 ll change 6.00851
+  Iteration 70	 time lapse 4.38194s	 ll change 4.12557
+  Iteration 80	 time lapse 4.38820s	 ll change 3.13183
+  Iteration 90	 time lapse 4.26261s	 ll change 2.54350
+Initialization converged: False	 time lapse 44.03479s	 ll -173129.83133
+The number of components is: 25 
+The lower bound value is: -173129.831327 
+
+Initialization 0
+  Iteration 0	 time lapse 1.13576s	 ll change inf
+  Iteration 10	 time lapse 4.54723s	 ll change 187.59238
+  Iteration 20	 time lapse 4.42963s	 ll change 56.32787
+  Iteration 30	 time lapse 4.32979s	 ll change 26.15462
+  Iteration 40	 time lapse 4.40651s	 ll change 13.55580
+  Iteration 50	 time lapse 4.44753s	 ll change 7.94422
+  Iteration 60	 time lapse 4.55947s	 ll change 5.30979
+  Iteration 70	 time lapse 4.53613s	 ll change 3.90486
+  Iteration 80	 time lapse 4.43082s	 ll change 3.08537
+  Iteration 90	 time lapse 4.45738s	 ll change 2.58347
+Initialization converged: False	 time lapse 45.28562s	 ll -173143.29786
+The number of components is: 26 
+The lower bound value is: -173143.297859 
+
+Initialization 0
+  Iteration 0	 time lapse 1.08916s	 ll change inf
+  Iteration 10	 time lapse 4.51817s	 ll change 189.83942
+  Iteration 20	 time lapse 4.43573s	 ll change 55.13845
+  Iteration 30	 time lapse 4.47755s	 ll change 26.43669
+  Iteration 40	 time lapse 4.61638s	 ll change 16.12515
+  Iteration 50	 time lapse 4.50379s	 ll change 12.15845
+  Iteration 60	 time lapse 4.48810s	 ll change 8.44301
+  Iteration 70	 time lapse 4.55763s	 ll change 5.35863
+  Iteration 80	 time lapse 4.55435s	 ll change 3.73040
+  Iteration 90	 time lapse 4.54705s	 ll change 2.92697
+Initialization converged: False	 time lapse 45.90154s	 ll -173195.41089
+The number of components is: 27 
+The lower bound value is: -173195.410890 
+
+Initialization 0
+  Iteration 0	 time lapse 1.53158s	 ll change inf
+  Iteration 10	 time lapse 4.84779s	 ll change 203.55580
+  Iteration 20	 time lapse 4.73438s	 ll change 58.44115
+  Iteration 30	 time lapse 4.67957s	 ll change 27.34409
+  Iteration 40	 time lapse 4.65398s	 ll change 15.42004
+  Iteration 50	 time lapse 4.81155s	 ll change 11.91600
+  Iteration 60	 time lapse 4.64726s	 ll change 9.53238
+  Iteration 70	 time lapse 4.73060s	 ll change 6.34896
+  Iteration 80	 time lapse 4.65828s	 ll change 4.25563
+  Iteration 90	 time lapse 4.63046s	 ll change 3.18877
+Initialization converged: False	 time lapse 48.20091s	 ll -173278.64026
+The number of components is: 28 
+The lower bound value is: -173278.640261 
+
+Initialization 0
+  Iteration 0	 time lapse 2.03418s	 ll change inf
+  Iteration 10	 time lapse 5.06266s	 ll change 213.12933
+  Iteration 20	 time lapse 5.00294s	 ll change 58.22278
+  Iteration 30	 time lapse 4.97295s	 ll change 26.39505
+  Iteration 40	 time lapse 4.87273s	 ll change 15.31481
+  Iteration 50	 time lapse 4.92319s	 ll change 12.10819
+  Iteration 60	 time lapse 4.83223s	 ll change 9.43001
+  Iteration 70	 time lapse 4.95475s	 ll change 6.27833
+  Iteration 80	 time lapse 4.88050s	 ll change 4.33930
+  Iteration 90	 time lapse 4.89680s	 ll change 3.29891
+Initialization converged: False	 time lapse 50.88631s	 ll -173222.81873
+The number of components is: 29 
+The lower bound value is: -173222.818727 
+
+Initialization 0
+  Iteration 0	 time lapse 1.38968s	 ll change inf
+  Iteration 10	 time lapse 5.10258s	 ll change 221.75642
+  Iteration 20	 time lapse 5.08430s	 ll change 63.98333
+  Iteration 30	 time lapse 4.94931s	 ll change 30.79106
+  Iteration 40	 time lapse 5.02212s	 ll change 16.80052
+  Iteration 50	 time lapse 4.91341s	 ll change 9.88658
+  Iteration 60	 time lapse 4.86993s	 ll change 6.42875
+  Iteration 70	 time lapse 5.09379s	 ll change 4.61982
+  Iteration 80	 time lapse 5.06759s	 ll change 3.52558
+  Iteration 90	 time lapse 4.88390s	 ll change 2.79796
+Initialization converged: False	 time lapse 50.91284s	 ll -173275.83573
+The number of components is: 30 
+The lower bound value is: -173275.835732 
+
+All lower bound values: [-237304.54173107867, -210948.14331060572, -191183.61353535252, -181253.27781501663, -176174.85095634844, -173969.11258400901, -173208.56594921378, -173106.70594952902, -173014.73664978708, -172787.00874929805, -172759.07921394077, -172849.30985795482, -172623.85735694575, -172657.17837488349, -172710.25501401446, -172723.74720239406, -172779.145087073, -172813.86721761216, -172834.23725734054, -172956.79700636939, -172993.58364623206, -172990.54017839316, -173044.62292502844, -173077.88610463502, -173129.83132660485, -173143.29785944111, -173195.41089034046, -173278.64026091745, -173222.81872732786, -173275.83573156918]
+Initialization 0
+  Iteration 0	 time lapse 0.05472s	 ll change inf
+Initialization converged: True	 time lapse 0.06350s	 ll -238327.99103
+The number of components is: 1 
+The lower bound value is: -238327.991034 
+
+Initialization 0
+  Iteration 0	 time lapse 0.08624s	 ll change inf
+  Iteration 10	 time lapse 0.39415s	 ll change 24.23785
+  Iteration 20	 time lapse 0.37903s	 ll change 48.56670
+  Iteration 30	 time lapse 0.38867s	 ll change 100.18367
+  Iteration 40	 time lapse 0.37407s	 ll change 206.97881
+  Iteration 50	 time lapse 0.36207s	 ll change 110.44575
+  Iteration 60	 time lapse 0.38152s	 ll change 16.64855
+  Iteration 70	 time lapse 0.35514s	 ll change 2.10717
+  Iteration 80	 time lapse 0.35397s	 ll change 0.23425
+  Iteration 90	 time lapse 0.36408s	 ll change 0.02471
+Initialization converged: False	 time lapse 3.78323s	 ll -210072.49995
+The number of components is: 2 
+The lower bound value is: -210072.499952 
+
+Initialization 0
+  Iteration 0	 time lapse 0.14142s	 ll change inf
+  Iteration 10	 time lapse 0.57063s	 ll change 406.11211
+  Iteration 20	 time lapse 0.55194s	 ll change 208.36856
+  Iteration 30	 time lapse 0.55712s	 ll change 87.51646
+  Iteration 40	 time lapse 0.52615s	 ll change 228.79856
+  Iteration 50	 time lapse 0.57978s	 ll change 0.15716
+  Iteration 60	 time lapse 0.58829s	 ll change 0.00678
+Initialization converged: True	 time lapse 3.93410s	 ll -188375.86710
+The number of components is: 3 
+The lower bound value is: -188375.867095 
+
+Initialization 0
+  Iteration 0	 time lapse 0.18790s	 ll change inf
+  Iteration 10	 time lapse 0.69468s	 ll change 639.95310
+  Iteration 20	 time lapse 0.70010s	 ll change 464.11035
+  Iteration 30	 time lapse 0.70299s	 ll change 8.22520
+  Iteration 40	 time lapse 0.71327s	 ll change 3.04328
+  Iteration 50	 time lapse 0.72906s	 ll change 1.73687
+  Iteration 60	 time lapse 0.72143s	 ll change 1.21749
+  Iteration 70	 time lapse 0.72523s	 ll change 0.90030
+  Iteration 80	 time lapse 0.74270s	 ll change 0.66837
+  Iteration 90	 time lapse 0.68491s	 ll change 0.49303
+Initialization converged: False	 time lapse 7.21294s	 ll -181636.70936
+The number of components is: 4 
+The lower bound value is: -181636.709362 
+
+Initialization 0
+  Iteration 0	 time lapse 0.35379s	 ll change inf
+  Iteration 10	 time lapse 0.87545s	 ll change 522.82572
+  Iteration 20	 time lapse 0.87257s	 ll change 122.38860
+  Iteration 30	 time lapse 0.88705s	 ll change 108.08881
+  Iteration 40	 time lapse 0.85600s	 ll change 187.93906
+  Iteration 50	 time lapse 0.86084s	 ll change 118.67459
+  Iteration 60	 time lapse 0.85291s	 ll change 17.53540
+  Iteration 70	 time lapse 0.87428s	 ll change 2.38204
+  Iteration 80	 time lapse 0.88112s	 ll change 0.29468
+  Iteration 90	 time lapse 0.87354s	 ll change 0.03897
+Initialization converged: False	 time lapse 8.98455s	 ll -174103.51093
+The number of components is: 5 
+The lower bound value is: -174103.510930 
+
+Initialization 0
+  Iteration 0	 time lapse 0.24341s	 ll change inf
+  Iteration 10	 time lapse 1.05051s	 ll change 896.82924
+  Iteration 20	 time lapse 1.07612s	 ll change 231.17255
+  Iteration 30	 time lapse 1.04471s	 ll change 139.10622
+  Iteration 40	 time lapse 1.07089s	 ll change 50.10426
+  Iteration 50	 time lapse 1.02631s	 ll change 12.07783
+  Iteration 60	 time lapse 0.98245s	 ll change 2.19198
+  Iteration 70	 time lapse 1.01135s	 ll change 0.44944
+  Iteration 80	 time lapse 1.00148s	 ll change 0.16200
+  Iteration 90	 time lapse 1.05957s	 ll change 0.10781
+Initialization converged: False	 time lapse 10.49898s	 ll -171940.50177
+The number of components is: 6 
+The lower bound value is: -171940.501769 
+
+Initialization 0
+  Iteration 0	 time lapse 0.42310s	 ll change inf
+  Iteration 10	 time lapse 1.27165s	 ll change 541.11776
+  Iteration 20	 time lapse 1.19817s	 ll change 220.25114
+  Iteration 30	 time lapse 1.21258s	 ll change 78.33091
+  Iteration 40	 time lapse 1.18650s	 ll change 39.77309
+  Iteration 50	 time lapse 1.16649s	 ll change 15.74784
+  Iteration 60	 time lapse 1.18422s	 ll change 6.74299
+  Iteration 70	 time lapse 1.25033s	 ll change 4.29132
+  Iteration 80	 time lapse 1.25042s	 ll change 3.51737
+  Iteration 90	 time lapse 1.14932s	 ll change 3.20706
+Initialization converged: False	 time lapse 12.39422s	 ll -171187.07134
+The number of components is: 7 
+The lower bound value is: -171187.071336 
+
+Initialization 0
+  Iteration 0	 time lapse 0.50615s	 ll change inf
+  Iteration 10	 time lapse 1.30125s	 ll change 271.58248
+  Iteration 20	 time lapse 1.32149s	 ll change 192.60467
+  Iteration 30	 time lapse 1.33663s	 ll change 63.69817
+  Iteration 40	 time lapse 1.36420s	 ll change 33.44345
+  Iteration 50	 time lapse 1.38249s	 ll change 15.46547
+  Iteration 60	 time lapse 1.30101s	 ll change 9.01997
+  Iteration 70	 time lapse 1.37050s	 ll change 7.07856
+  Iteration 80	 time lapse 1.38707s	 ll change 6.23635
+  Iteration 90	 time lapse 1.38250s	 ll change 5.72664
+Initialization converged: False	 time lapse 13.88339s	 ll -170921.13393
+The number of components is: 8 
+The lower bound value is: -170921.133925 
+
+Initialization 0
+  Iteration 0	 time lapse 0.40329s	 ll change inf
+  Iteration 10	 time lapse 1.48150s	 ll change 195.76291
+  Iteration 20	 time lapse 1.54085s	 ll change 31.52712
+  Iteration 30	 time lapse 1.60398s	 ll change 16.66206
+  Iteration 40	 time lapse 1.50441s	 ll change 12.95011
+  Iteration 50	 time lapse 1.56648s	 ll change 10.22841
+  Iteration 60	 time lapse 1.60340s	 ll change 7.73959
+  Iteration 70	 time lapse 1.52980s	 ll change 5.70472
+  Iteration 80	 time lapse 1.59762s	 ll change 4.23237
+  Iteration 90	 time lapse 1.56499s	 ll change 3.26780
+Initialization converged: False	 time lapse 15.81084s	 ll -170449.56101
+The number of components is: 9 
+The lower bound value is: -170449.561012 
+
+Initialization 0
+  Iteration 0	 time lapse 0.37353s	 ll change inf
+  Iteration 10	 time lapse 1.72065s	 ll change 158.65621
+  Iteration 20	 time lapse 1.71282s	 ll change 30.06936
+  Iteration 30	 time lapse 1.70551s	 ll change 17.44002
+  Iteration 40	 time lapse 1.69858s	 ll change 12.66140
+  Iteration 50	 time lapse 1.63749s	 ll change 7.98005
+  Iteration 60	 time lapse 1.62741s	 ll change 4.65283
+  Iteration 70	 time lapse 1.71422s	 ll change 2.86467
+  Iteration 80	 time lapse 1.62172s	 ll change 1.97591
+  Iteration 90	 time lapse 1.72206s	 ll change 1.50747
+Initialization converged: False	 time lapse 17.04759s	 ll -170381.13440
+The number of components is: 10 
+The lower bound value is: -170381.134399 
+
+Initialization 0
+  Iteration 0	 time lapse 0.59794s	 ll change inf
+  Iteration 10	 time lapse 1.79486s	 ll change 75.81517
+  Iteration 20	 time lapse 1.88293s	 ll change 15.61043
+  Iteration 30	 time lapse 1.90348s	 ll change 8.72713
+  Iteration 40	 time lapse 1.92213s	 ll change 5.13972
+  Iteration 50	 time lapse 1.90888s	 ll change 3.07451
+  Iteration 60	 time lapse 1.89450s	 ll change 2.02225
+  Iteration 70	 time lapse 1.83284s	 ll change 1.51006
+  Iteration 80	 time lapse 1.86829s	 ll change 1.23945
+  Iteration 90	 time lapse 1.83244s	 ll change 1.06170
+Initialization converged: False	 time lapse 19.09352s	 ll -170273.66606
+The number of components is: 11 
+The lower bound value is: -170273.666061 
+
+Initialization 0
+  Iteration 0	 time lapse 0.78826s	 ll change inf
+  Iteration 10	 time lapse 1.90922s	 ll change 88.22926
+  Iteration 20	 time lapse 1.90302s	 ll change 15.17522
+  Iteration 30	 time lapse 1.94272s	 ll change 8.47089
+  Iteration 40	 time lapse 1.94681s	 ll change 5.89833
+  Iteration 50	 time lapse 2.00112s	 ll change 3.95803
+  Iteration 60	 time lapse 2.04280s	 ll change 2.64174
+  Iteration 70	 time lapse 2.07554s	 ll change 1.89270
+  Iteration 80	 time lapse 2.08683s	 ll change 1.51750
+  Iteration 90	 time lapse 2.01380s	 ll change 1.34033
+Initialization converged: False	 time lapse 20.52574s	 ll -170350.66434
+The number of components is: 12 
+The lower bound value is: -170350.664344 
+
+Initialization 0
+  Iteration 0	 time lapse 0.48173s	 ll change inf
+  Iteration 10	 time lapse 2.11575s	 ll change 70.50240
+  Iteration 20	 time lapse 2.18680s	 ll change 11.95890
+  Iteration 30	 time lapse 2.21785s	 ll change 6.98138
+  Iteration 40	 time lapse 2.21803s	 ll change 4.69738
+  Iteration 50	 time lapse 2.22382s	 ll change 3.18818
+  Iteration 60	 time lapse 2.15502s	 ll change 2.17842
+  Iteration 70	 time lapse 2.14318s	 ll change 1.51170
+  Iteration 80	 time lapse 2.19039s	 ll change 1.07684
+  Iteration 90	 time lapse 2.13872s	 ll change 0.79300
+Initialization converged: False	 time lapse 22.00543s	 ll -170309.98239
+The number of components is: 13 
+The lower bound value is: -170309.982386 
+
+Initialization 0
+  Iteration 0	 time lapse 1.02011s	 ll change inf
+  Iteration 10	 time lapse 2.23813s	 ll change 73.30964
+  Iteration 20	 time lapse 2.31264s	 ll change 13.57310
+  Iteration 30	 time lapse 2.62265s	 ll change 8.12501
+  Iteration 40	 time lapse 2.30416s	 ll change 5.53380
+  Iteration 50	 time lapse 2.28555s	 ll change 3.83929
+  Iteration 60	 time lapse 2.29638s	 ll change 2.69228
+  Iteration 70	 time lapse 2.39440s	 ll change 1.90934
+  Iteration 80	 time lapse 2.33739s	 ll change 1.37948
+  Iteration 90	 time lapse 2.38815s	 ll change 1.02525
+Initialization converged: False	 time lapse 24.27783s	 ll -170349.64733
+The number of components is: 14 
+The lower bound value is: -170349.647330 
+
+Initialization 0
+  Iteration 0	 time lapse 0.58940s	 ll change inf
+  Iteration 10	 time lapse 2.52901s	 ll change 71.76544
+  Iteration 20	 time lapse 2.53884s	 ll change 15.42294
+  Iteration 30	 time lapse 2.50802s	 ll change 8.85599
+  Iteration 40	 time lapse 2.48890s	 ll change 5.79059
+  Iteration 50	 time lapse 2.60476s	 ll change 3.93617
+  Iteration 60	 time lapse 2.54095s	 ll change 2.72806
+  Iteration 70	 time lapse 2.59459s	 ll change 1.92324
+  Iteration 80	 time lapse 2.50345s	 ll change 1.38625
+  Iteration 90	 time lapse 2.59603s	 ll change 1.02792
+Initialization converged: False	 time lapse 25.81168s	 ll -170391.73442
+The number of components is: 15 
+The lower bound value is: -170391.734415 
+
+Initialization 0
+  Iteration 0	 time lapse 0.96660s	 ll change inf
+  Iteration 10	 time lapse 2.84634s	 ll change 62.13035
+  Iteration 20	 time lapse 2.75174s	 ll change 19.52714
+  Iteration 30	 time lapse 2.65077s	 ll change 11.08163
+  Iteration 40	 time lapse 2.74587s	 ll change 6.63903
+  Iteration 50	 time lapse 2.77964s	 ll change 4.27672
+  Iteration 60	 time lapse 2.66167s	 ll change 3.00168
+  Iteration 70	 time lapse 2.69519s	 ll change 2.21978
+  Iteration 80	 time lapse 2.79837s	 ll change 1.69090
+  Iteration 90	 time lapse 2.65298s	 ll change 1.31892
+Initialization converged: False	 time lapse 28.13283s	 ll -170429.08688
+The number of components is: 16 
+The lower bound value is: -170429.086878 
+
+Initialization 0
+  Iteration 0	 time lapse 0.83999s	 ll change inf
+  Iteration 10	 time lapse 2.88262s	 ll change 86.74336
+  Iteration 20	 time lapse 2.81905s	 ll change 23.90841
+  Iteration 30	 time lapse 2.85334s	 ll change 13.11122
+  Iteration 40	 time lapse 2.87207s	 ll change 7.94491
+  Iteration 50	 time lapse 2.96399s	 ll change 5.11934
+  Iteration 60	 time lapse 2.83254s	 ll change 3.49660
+  Iteration 70	 time lapse 2.97681s	 ll change 2.49120
+  Iteration 80	 time lapse 2.89568s	 ll change 1.83414
+  Iteration 90	 time lapse 2.86421s	 ll change 1.39807
+Initialization converged: False	 time lapse 29.45070s	 ll -170445.85179
+The number of components is: 17 
+The lower bound value is: -170445.851787 
+
+Initialization 0
+  Iteration 0	 time lapse 0.74895s	 ll change inf
+  Iteration 10	 time lapse 3.15060s	 ll change 78.96604
+  Iteration 20	 time lapse 3.10783s	 ll change 27.80125
+  Iteration 30	 time lapse 3.05564s	 ll change 13.91853
+  Iteration 40	 time lapse 3.09466s	 ll change 7.93867
+  Iteration 50	 time lapse 3.14089s	 ll change 4.75073
+  Iteration 60	 time lapse 2.99845s	 ll change 3.16503
+  Iteration 70	 time lapse 3.08506s	 ll change 2.34997
+  Iteration 80	 time lapse 3.16961s	 ll change 1.88425
+  Iteration 90	 time lapse 3.06178s	 ll change 1.59978
+Initialization converged: False	 time lapse 31.42332s	 ll -170555.69277
+The number of components is: 18 
+The lower bound value is: -170555.692774 
+
+Initialization 0
+  Iteration 0	 time lapse 0.88461s	 ll change inf
+  Iteration 10	 time lapse 3.21883s	 ll change 95.49306
+  Iteration 20	 time lapse 3.25610s	 ll change 33.03370
+  Iteration 30	 time lapse 3.23854s	 ll change 16.97546
+  Iteration 40	 time lapse 3.33213s	 ll change 10.10487
+  Iteration 50	 time lapse 3.25748s	 ll change 6.15828
+  Iteration 60	 time lapse 3.16555s	 ll change 3.96710
+  Iteration 70	 time lapse 3.17538s	 ll change 2.75532
+  Iteration 80	 time lapse 3.28687s	 ll change 2.07001
+  Iteration 90	 time lapse 3.26199s	 ll change 1.68347
+Initialization converged: False	 time lapse 33.05165s	 ll -170598.27058
+The number of components is: 19 
+The lower bound value is: -170598.270583 
+
+Initialization 0
+  Iteration 0	 time lapse 0.90084s	 ll change inf
+  Iteration 10	 time lapse 3.52404s	 ll change 106.64285
+  Iteration 20	 time lapse 3.33195s	 ll change 37.30903
+  Iteration 30	 time lapse 3.37828s	 ll change 18.57718
+  Iteration 40	 time lapse 3.46072s	 ll change 10.45994
+  Iteration 50	 time lapse 3.56521s	 ll change 6.16799
+  Iteration 60	 time lapse 3.41870s	 ll change 4.02193
+  Iteration 70	 time lapse 3.38617s	 ll change 2.91952
+  Iteration 80	 time lapse 3.42747s	 ll change 2.31450
+  Iteration 90	 time lapse 3.28919s	 ll change 1.96124
+Initialization converged: False	 time lapse 34.76379s	 ll -170611.00415
+The number of components is: 20 
+The lower bound value is: -170611.004147 
+
+Initialization 0
+  Iteration 0	 time lapse 1.40410s	 ll change inf
+  Iteration 10	 time lapse 3.68425s	 ll change 137.56048
+  Iteration 20	 time lapse 3.69094s	 ll change 40.74925
+  Iteration 30	 time lapse 3.61735s	 ll change 22.08511
+  Iteration 40	 time lapse 3.71012s	 ll change 12.31698
+  Iteration 50	 time lapse 3.63165s	 ll change 7.06147
+  Iteration 60	 time lapse 3.56648s	 ll change 4.46255
+  Iteration 70	 time lapse 3.62814s	 ll change 3.08128
+  Iteration 80	 time lapse 3.59449s	 ll change 2.28469
+  Iteration 90	 time lapse 3.57632s	 ll change 1.81741
+Initialization converged: False	 time lapse 37.35919s	 ll -170617.37007
+The number of components is: 21 
+The lower bound value is: -170617.370066 
+
+Initialization 0
+  Iteration 0	 time lapse 0.91833s	 ll change inf
+  Iteration 10	 time lapse 3.83264s	 ll change 137.48031
+  Iteration 20	 time lapse 3.75215s	 ll change 46.23824
+  Iteration 30	 time lapse 3.72397s	 ll change 24.97151
+  Iteration 40	 time lapse 3.77065s	 ll change 14.14322
+  Iteration 50	 time lapse 3.73672s	 ll change 8.24497
+  Iteration 60	 time lapse 3.67984s	 ll change 5.26552
+  Iteration 70	 time lapse 3.66355s	 ll change 3.67065
+  Iteration 80	 time lapse 3.66874s	 ll change 2.75397
+  Iteration 90	 time lapse 3.74556s	 ll change 2.21315
+Initialization converged: False	 time lapse 37.88387s	 ll -170715.94517
+The number of components is: 22 
+The lower bound value is: -170715.945169 
+
+Initialization 0
+  Iteration 0	 time lapse 1.29890s	 ll change inf
+  Iteration 10	 time lapse 3.92601s	 ll change 149.60511
+  Iteration 20	 time lapse 3.93847s	 ll change 48.70457
+  Iteration 30	 time lapse 3.94923s	 ll change 26.16831
+  Iteration 40	 time lapse 3.98716s	 ll change 15.21467
+  Iteration 50	 time lapse 3.91159s	 ll change 8.75932
+  Iteration 60	 time lapse 3.90204s	 ll change 5.41397
+  Iteration 70	 time lapse 3.87474s	 ll change 3.69733
+  Iteration 80	 time lapse 3.92004s	 ll change 2.77744
+  Iteration 90	 time lapse 3.96643s	 ll change 2.28465
+Initialization converged: False	 time lapse 40.12254s	 ll -170731.54350
+The number of components is: 23 
+The lower bound value is: -170731.543498 
+
+Initialization 0
+  Iteration 0	 time lapse 1.02703s	 ll change inf
+  Iteration 10	 time lapse 4.03885s	 ll change 160.44132
+  Iteration 20	 time lapse 3.95881s	 ll change 50.21728
+  Iteration 30	 time lapse 4.04796s	 ll change 27.93797
+  Iteration 40	 time lapse 4.02394s	 ll change 18.88380
+  Iteration 50	 time lapse 4.05027s	 ll change 11.29288
+  Iteration 60	 time lapse 3.95037s	 ll change 6.23275
+  Iteration 70	 time lapse 3.91803s	 ll change 3.93227
+  Iteration 80	 time lapse 3.96526s	 ll change 2.86720
+  Iteration 90	 time lapse 3.93650s	 ll change 2.35422
+Initialization converged: False	 time lapse 40.53149s	 ll -170799.26948/home/student/anaconda3/lib/python3.6/site-packages/sklearn/mixture/base.py:237: ConvergenceWarning: Initialization 1 did not converge. Try different init parameters, or increase max_iter, tol or check for degenerate data.
+  % (init + 1), ConvergenceWarning)
+
+The number of components is: 24 
+The lower bound value is: -170799.269482 
+
+Initialization 0
+  Iteration 0	 time lapse 1.02180s	 ll change inf
+  Iteration 10	 time lapse 4.36280s	 ll change 180.65589
+  Iteration 20	 time lapse 4.29663s	 ll change 52.10723
+  Iteration 30	 time lapse 4.16095s	 ll change 24.66860
+  Iteration 40	 time lapse 4.22454s	 ll change 13.50230
+  Iteration 50	 time lapse 4.16417s	 ll change 8.21266
+  Iteration 60	 time lapse 4.31834s	 ll change 5.54346
+  Iteration 70	 time lapse 4.34163s	 ll change 4.07293
+  Iteration 80	 time lapse 4.33477s	 ll change 3.22783
+  Iteration 90	 time lapse 4.19302s	 ll change 2.73086
+Initialization converged: False	 time lapse 43.31482s	 ll -170769.50522
+The number of components is: 25 
+The lower bound value is: -170769.505218 
+
+Initialization 0
+  Iteration 0	 time lapse 1.41620s	 ll change inf
+  Iteration 10	 time lapse 4.46557s	 ll change 191.22927
+  Iteration 20	 time lapse 4.42153s	 ll change 55.69158
+  Iteration 30	 time lapse 4.32051s	 ll change 29.29455
+  Iteration 40	 time lapse 4.37967s	 ll change 19.52139
+  Iteration 50	 time lapse 4.47065s	 ll change 11.56945
+  Iteration 60	 time lapse 4.42047s	 ll change 6.53618
+  Iteration 70	 time lapse 4.34267s	 ll change 4.31831
+  Iteration 80	 time lapse 4.33886s	 ll change 3.35426
+  Iteration 90	 time lapse 4.44308s	 ll change 2.94866
+Initialization converged: False	 time lapse 44.96033s	 ll -170842.65423
+The number of components is: 26 
+The lower bound value is: -170842.654231 
+
+Initialization 0
+  Iteration 0	 time lapse 1.37725s	 ll change inf
+  Iteration 10	 time lapse 4.56272s	 ll change 198.48794
+  Iteration 20	 time lapse 4.57832s	 ll change 58.19346
+  Iteration 30	 time lapse 4.51505s	 ll change 30.88760
+  Iteration 40	 time lapse 4.50224s	 ll change 17.93862
+  Iteration 50	 time lapse 4.55607s	 ll change 10.43623
+  Iteration 60	 time lapse 4.48989s	 ll change 6.44022
+  Iteration 70	 time lapse 4.57617s	 ll change 4.40055
+  Iteration 80	 time lapse 4.46376s	 ll change 3.35265
+  Iteration 90	 time lapse 4.47164s	 ll change 2.78795
+Initialization converged: False	 time lapse 46.08017s	 ll -170893.20067
+The number of components is: 27 
+The lower bound value is: -170893.200673 
+
+Initialization 0
+  Iteration 0	 time lapse 1.50338s	 ll change inf
+  Iteration 10	 time lapse 4.74095s	 ll change 200.78416
+  Iteration 20	 time lapse 4.65017s	 ll change 55.04778
+  Iteration 30	 time lapse 4.52971s	 ll change 27.81392
+  Iteration 40	 time lapse 4.63449s	 ll change 18.65904
+  Iteration 50	 time lapse 4.56910s	 ll change 12.46267
+  Iteration 60	 time lapse 4.47134s	 ll change 7.55058
+  Iteration 70	 time lapse 4.40654s	 ll change 4.95166
+  Iteration 80	 time lapse 4.52905s	 ll change 3.69877
+  Iteration 90	 time lapse 4.36156s	 ll change 3.06290
+Initialization converged: False	 time lapse 46.43953s	 ll -170880.99569
+The number of components is: 28 
+The lower bound value is: -170880.995687 
+
+Initialization 0
+  Iteration 0	 time lapse 1.14035s	 ll change inf
+  Iteration 10	 time lapse 4.74642s	 ll change 211.48256
+  Iteration 20	 time lapse 4.63667s	 ll change 57.08806
+  Iteration 30	 time lapse 4.61421s	 ll change 27.83890
+  Iteration 40	 time lapse 4.65665s	 ll change 16.02955
+  Iteration 50	 time lapse 4.72792s	 ll change 10.73006
+  Iteration 60	 time lapse 4.56441s	 ll change 9.50251
+  Iteration 70	 time lapse 4.59982s	 ll change 9.87973
+  Iteration 80	 time lapse 4.71895s	 ll change 7.29831
+  Iteration 90	 time lapse 4.66550s	 ll change 4.59418
+Initialization converged: False	 time lapse 47.21123s	 ll -170965.24228
+The number of components is: 29 
+The lower bound value is: -170965.242281 
+
+Initialization 0
+  Iteration 0	 time lapse 1.38778s	 ll change inf
+  Iteration 10	 time lapse 4.77922s	 ll change 219.21647
+  Iteration 20	 time lapse 4.70485s	 ll change 56.75219
+  Iteration 30	 time lapse 4.74343s	 ll change 27.80875
+  Iteration 40	 time lapse 4.75875s	 ll change 19.69999
+  Iteration 50	 time lapse 4.82728s	 ll change 18.51148
+  Iteration 60	 time lapse 4.73696s	 ll change 13.28713
+  Iteration 70	 time lapse 4.64124s	 ll change 7.30279
+  Iteration 80	 time lapse 4.79410s	 ll change 4.60712
+  Iteration 90	 time lapse 4.65343s	 ll change 3.47187
+Initialization converged: False	 time lapse 48.31041s	 ll -170989.42531
+The number of components is: 30 
+The lower bound value is: -170989.425314 
+
+All lower bound values: [-238327.99103439579, -210072.49995164303, -188375.86709505966, -181636.70936170401, -174103.51093025084, -171940.50176915654, -171187.0713359123, -170921.13392528775, -170449.56101162909, -170381.13439945775, -170273.66606078058, -170350.66434381623, -170309.98238554096, -170349.64732980705, -170391.73441520595, -170429.08687818007, -170445.85178724138, -170555.69277370773, -170598.27058262946, -170611.00414666708, -170617.37006644817, -170715.9451686191, -170731.54349761113, -170799.2694823991, -170769.50521755157, -170842.65423134636, -170893.20067298831, -170880.99568734504, -170965.24228130089, -170989.42531366838]
+Initialization 0
+  Iteration 0	 time lapse 0.05986s	 ll change inf
+Initialization converged: True	 time lapse 0.06852s	 ll -238410.40340
+The number of components is: 1 
+The lower bound value is: -238410.403403 
+
+Initialization 0
+  Iteration 0	 time lapse 0.07778s	 ll change inf
+  Iteration 10	 time lapse 0.38746s	 ll change 1.28084
+  Iteration 20	 time lapse 0.39906s	 ll change 1.74222
+  Iteration 30	 time lapse 0.38271s	 ll change 2.57622
+  Iteration 40	 time lapse 0.40745s	 ll change 4.17123
+  Iteration 50	 time lapse 0.37838s	 ll change 7.45352
+  Iteration 60	 time lapse 0.38480s	 ll change 14.79860
+  Iteration 70	 time lapse 0.39185s	 ll change 32.59796
+  Iteration 80	 time lapse 0.39538s	 ll change 75.96548
+  Iteration 90	 time lapse 0.39840s	 ll change 146.27303
+Initialization converged: False	 time lapse 3.94054s	 ll -211039.89774
+The number of components is: 2 
+The lower bound value is: -211039.897735 
+
+Initialization 0
+  Iteration 0	 time lapse 0.14198s	 ll change inf
+  Iteration 10	 time lapse 0.55134s	 ll change 367.08995
+  Iteration 20	 time lapse 0.56050s	 ll change 172.61802
+  Iteration 30	 time lapse 0.54182s	 ll change 148.78992
+  Iteration 40	 time lapse 0.53978s	 ll change 211.63737
+  Iteration 50	 time lapse 0.53006s	 ll change 0.73516
+  Iteration 60	 time lapse 0.54196s	 ll change 0.00521
+Initialization converged: True	 time lapse 3.72063s	 ll -188603.03944
+The number of components is: 3 
+The lower bound value is: -188603.039444 
+
+Initialization 0
+  Iteration 0	 time lapse 0.16400s	 ll change inf
+  Iteration 10	 time lapse 0.70144s	 ll change 648.42917
+  Iteration 20	 time lapse 0.73467s	 ll change 264.97478
+  Iteration 30	 time lapse 0.71189s	 ll change 8.18864
+  Iteration 40	 time lapse 0.69350s	 ll change 2.83983
+  Iteration 50	 time lapse 0.71031s	 ll change 1.23228
+  Iteration 60	 time lapse 0.68735s	 ll change 0.58330
+  Iteration 70	 time lapse 0.70497s	 ll change 0.28059
+  Iteration 80	 time lapse 0.68726s	 ll change 0.13456
+  Iteration 90	 time lapse 0.68872s	 ll change 0.06421
+Initialization converged: False	 time lapse 7.12512s	 ll -181410.82931
+The number of components is: 4 
+The lower bound value is: -181410.829314 
+
+Initialization 0
+  Iteration 0	 time lapse 0.27136s	 ll change inf
+  Iteration 10	 time lapse 0.90209s	 ll change 600.18967
+  Iteration 20	 time lapse 0.91375s	 ll change 96.69001
+  Iteration 30	 time lapse 0.87697s	 ll change 91.05092
+  Iteration 40	 time lapse 0.91999s	 ll change 158.23924
+  Iteration 50	 time lapse 0.87982s	 ll change 193.11071
+  Iteration 60	 time lapse 0.91150s	 ll change 37.36835
+  Iteration 70	 time lapse 0.88637s	 ll change 5.56089
+  Iteration 80	 time lapse 0.90692s	 ll change 1.43016
+  Iteration 90	 time lapse 0.88609s	 ll change 0.68246
+Initialization converged: False	 time lapse 9.17579s	 ll -173919.59705
+The number of components is: 5 
+The lower bound value is: -173919.597052 
+
+Initialization 0
+  Iteration 0	 time lapse 0.25303s	 ll change inf
+  Iteration 10	 time lapse 1.05297s	 ll change 714.84960
+  Iteration 20	 time lapse 1.13733s	 ll change 186.12716
+  Iteration 30	 time lapse 1.02813s	 ll change 263.23405
+  Iteration 40	 time lapse 1.02528s	 ll change 85.71227
+  Iteration 50	 time lapse 1.04592s	 ll change 17.99217
+  Iteration 60	 time lapse 1.00872s	 ll change 2.76954
+  Iteration 70	 time lapse 1.05631s	 ll change 0.47352
+  Iteration 80	 time lapse 1.01186s	 ll change 0.11019
+  Iteration 90	 time lapse 1.03209s	 ll change 0.04248
+Initialization converged: False	 time lapse 10.57099s	 ll -171861.14737
+The number of components is: 6 
+The lower bound value is: -171861.147372 
+
+Initialization 0
+  Iteration 0	 time lapse 0.30120s	 ll change inf
+  Iteration 10	 time lapse 1.22660s	 ll change 443.21948
+  Iteration 20	 time lapse 1.21423s	 ll change 237.97543
+  Iteration 30	 time lapse 1.19060s	 ll change 61.71470
+  Iteration 40	 time lapse 1.21731s	 ll change 22.32968
+  Iteration 50	 time lapse 1.22566s	 ll change 8.87003
+  Iteration 60	 time lapse 1.19060s	 ll change 4.57079
+  Iteration 70	 time lapse 1.22101s	 ll change 3.02700
+  Iteration 80	 time lapse 1.22834s	 ll change 2.36034
+  Iteration 90	 time lapse 1.19671s	 ll change 2.02271
+Initialization converged: False	 time lapse 12.30155s	 ll -171127.28691
+The number of components is: 7 
+The lower bound value is: -171127.286911 
+
+Initialization 0
+  Iteration 0	 time lapse 0.39460s	 ll change inf
+  Iteration 10	 time lapse 1.38547s	 ll change 454.99435
+  Iteration 20	 time lapse 1.31901s	 ll change 42.14051
+  Iteration 30	 time lapse 1.23829s	 ll change 18.90066
+  Iteration 40	 time lapse 1.27890s	 ll change 12.09904
+  Iteration 50	 time lapse 1.26188s	 ll change 7.96612
+  Iteration 60	 time lapse 1.25559s	 ll change 5.35357
+  Iteration 70	 time lapse 1.22800s	 ll change 3.92912
+  Iteration 80	 time lapse 1.25166s	 ll change 3.25779
+  Iteration 90	 time lapse 1.26539s	 ll change 2.96463
+Initialization converged: False	 time lapse 13.01349s	 ll -170855.59197
+The number of components is: 8 
+The lower bound value is: -170855.591967 
+
+Initialization 0
+  Iteration 0	 time lapse 0.35799s	 ll change inf
+  Iteration 10	 time lapse 1.41230s	 ll change 237.67834
+  Iteration 20	 time lapse 1.45614s	 ll change 25.55592
+  Iteration 30	 time lapse 1.60221s	 ll change 14.30334
+  Iteration 40	 time lapse 1.58145s	 ll change 11.41259
+  Iteration 50	 time lapse 1.60451s	 ll change 9.30258
+  Iteration 60	 time lapse 1.50292s	 ll change 7.35522
+  Iteration 70	 time lapse 1.52299s	 ll change 5.87118
+  Iteration 80	 time lapse 1.49971s	 ll change 4.93172
+  Iteration 90	 time lapse 1.51543s	 ll change 4.35343
+Initialization converged: False	 time lapse 15.47988s	 ll -170663.77533
+The number of components is: 9 
+The lower bound value is: -170663.775330 
+
+Initialization 0
+  Iteration 0	 time lapse 0.36510s	 ll change inf
+  Iteration 10	 time lapse 1.65003s	 ll change 140.29225
+  Iteration 20	 time lapse 1.63215s	 ll change 24.65056
+  Iteration 30	 time lapse 1.57514s	 ll change 14.11144
+  Iteration 40	 time lapse 1.60482s	 ll change 9.47307
+  Iteration 50	 time lapse 1.66251s	 ll change 6.06512
+  Iteration 60	 time lapse 1.64081s	 ll change 4.05633
+  Iteration 70	 time lapse 1.64726s	 ll change 2.98734
+  Iteration 80	 time lapse 1.64211s	 ll change 2.44874
+  Iteration 90	 time lapse 1.63013s	 ll change 2.18949
+Initialization converged: False	 time lapse 16.52434s	 ll -170513.88959
+The number of components is: 10 
+The lower bound value is: -170513.889593 
+
+Initialization 0
+  Iteration 0	 time lapse 0.37975s	 ll change inf
+  Iteration 10	 time lapse 1.74471s	 ll change 88.94465
+  Iteration 20	 time lapse 1.84927s	 ll change 20.01730
+  Iteration 30	 time lapse 1.83438s	 ll change 14.83566
+  Iteration 40	 time lapse 1.82215s	 ll change 11.86825
+  Iteration 50	 time lapse 1.78939s	 ll change 8.15025
+  Iteration 60	 time lapse 1.79720s	 ll change 5.34644
+  Iteration 70	 time lapse 1.70198s	 ll change 3.69328
+  Iteration 80	 time lapse 1.83121s	 ll change 2.67840
+  Iteration 90	 time lapse 1.83893s	 ll change 1.98885
+Initialization converged: False	 time lapse 18.27243s	 ll -170346.37463
+The number of components is: 11 
+The lower bound value is: -170346.374635 
+
+Initialization 0
+  Iteration 0	 time lapse 0.48484s	 ll change inf
+  Iteration 10	 time lapse 1.96817s	 ll change 68.00437
+  Iteration 20	 time lapse 1.95868s	 ll change 11.62129
+  Iteration 30	 time lapse 1.95081s	 ll change 6.27946
+  Iteration 40	 time lapse 1.98024s	 ll change 4.18647
+  Iteration 50	 time lapse 1.98885s	 ll change 2.85804
+  Iteration 60	 time lapse 1.96470s	 ll change 1.98083
+  Iteration 70	 time lapse 1.98625s	 ll change 1.39609
+  Iteration 80	 time lapse 1.97335s	 ll change 1.00623
+  Iteration 90	 time lapse 1.95509s	 ll change 0.74701
+Initialization converged: False	 time lapse 19.99935s	 ll -170334.85066
+The number of components is: 12 
+The lower bound value is: -170334.850663 
+
+Initialization 0
+  Iteration 0	 time lapse 0.61521s	 ll change inf
+  Iteration 10	 time lapse 2.14629s	 ll change 64.22133
+  Iteration 20	 time lapse 2.12168s	 ll change 10.69002
+  Iteration 30	 time lapse 1.93460s	 ll change 5.92237
+  Iteration 40	 time lapse 2.12076s	 ll change 4.19787
+  Iteration 50	 time lapse 2.13083s	 ll change 3.13700
+  Iteration 60	 time lapse 2.13059s	 ll change 2.39090
+  Iteration 70	 time lapse 2.14420s	 ll change 1.83443
+  Iteration 80	 time lapse 2.16527s	 ll change 1.41499
+  Iteration 90	 time lapse 2.14126s	 ll change 1.10292
+Initialization converged: False	 time lapse 21.58386s	 ll -170376.44144
+The number of components is: 13 
+The lower bound value is: -170376.441440 
+
+Initialization 0
+  Iteration 0	 time lapse 0.87438s	 ll change inf
+  Iteration 10	 time lapse 2.28787s	 ll change 78.16138
+  Iteration 20	 time lapse 2.25925s	 ll change 14.59676
+  Iteration 30	 time lapse 2.27415s	 ll change 7.78268
+  Iteration 40	 time lapse 2.39830s	 ll change 5.21287
+  Iteration 50	 time lapse 2.27273s	 ll change 3.67908
+  Iteration 60	 time lapse 2.26543s	 ll change 2.70870
+  Iteration 70	 time lapse 2.26718s	 ll change 2.06501
+  Iteration 80	 time lapse 2.26747s	 ll change 1.61288
+  Iteration 90	 time lapse 2.26439s	 ll change 1.28423
+Initialization converged: False	 time lapse 23.48584s	 ll -170408.98369
+The number of components is: 14 
+The lower bound value is: -170408.983686 
+
+Initialization 0
+  Iteration 0	 time lapse 0.73443s	 ll change inf
+  Iteration 10	 time lapse 2.50203s	 ll change 78.75226
+  Iteration 20	 time lapse 2.44307s	 ll change 16.20373
+  Iteration 30	 time lapse 2.47848s	 ll change 8.92678
+  Iteration 40	 time lapse 2.47943s	 ll change 5.99906
+  Iteration 50	 time lapse 2.44475s	 ll change 4.30182
+  Iteration 60	 time lapse 2.45892s	 ll change 3.23032
+  Iteration 70	 time lapse 2.45059s	 ll change 2.49456
+  Iteration 80	 time lapse 2.43718s	 ll change 1.96600
+  Iteration 90	 time lapse 2.45006s	 ll change 1.58153
+Initialization converged: False	 time lapse 25.09285s	 ll -170450.30624
+The number of components is: 15 
+The lower bound value is: -170450.306241 
+
+Initialization 0
+  Iteration 0	 time lapse 0.60037s	 ll change inf
+  Iteration 10	 time lapse 2.68879s	 ll change 81.96476
+  Iteration 20	 time lapse 2.70691s	 ll change 20.04736
+  Iteration 30	 time lapse 2.67131s	 ll change 11.28069
+  Iteration 40	 time lapse 2.67958s	 ll change 7.53157
+  Iteration 50	 time lapse 2.68459s	 ll change 5.35191
+  Iteration 60	 time lapse 2.65896s	 ll change 3.90560
+  Iteration 70	 time lapse 2.66627s	 ll change 2.89074
+  Iteration 80	 time lapse 2.71026s	 ll change 2.17125
+  Iteration 90	 time lapse 2.67027s	 ll change 1.66223
+Initialization converged: False	 time lapse 27.14323s	 ll -170460.20771
+The number of components is: 16 
+The lower bound value is: -170460.207712 
+
+Initialization 0
+  Iteration 0	 time lapse 0.83825s	 ll change inf
+  Iteration 10	 time lapse 2.90580s	 ll change 93.97592
+  Iteration 20	 time lapse 2.89717s	 ll change 23.46719
+  Iteration 30	 time lapse 2.84819s	 ll change 12.53010
+  Iteration 40	 time lapse 2.84627s	 ll change 7.87041
+  Iteration 50	 time lapse 2.76313s	 ll change 5.19235
+  Iteration 60	 time lapse 2.83084s	 ll change 3.60147
+  Iteration 70	 time lapse 2.87130s	 ll change 2.64135
+  Iteration 80	 time lapse 2.85083s	 ll change 2.03312
+  Iteration 90	 time lapse 2.83080s	 ll change 1.63038
+Initialization converged: False	 time lapse 29.02406s	 ll -170532.96036
+The number of components is: 17 
+The lower bound value is: -170532.960362 
+
+Initialization 0
+  Iteration 0	 time lapse 0.99471s	 ll change inf
+  Iteration 10	 time lapse 2.97248s	 ll change 111.29603
+  Iteration 20	 time lapse 2.98729s	 ll change 27.36084
+  Iteration 30	 time lapse 2.92571s	 ll change 14.44075
+  Iteration 40	 time lapse 2.93408s	 ll change 9.10079
+  Iteration 50	 time lapse 2.94233s	 ll change 6.03453
+  Iteration 60	 time lapse 2.83200s	 ll change 4.17886
+  Iteration 70	 time lapse 2.80198s	 ll change 3.02177
+  Iteration 80	 time lapse 2.93134s	 ll change 2.26936
+  Iteration 90	 time lapse 2.92701s	 ll change 1.75778
+Initialization converged: False	 time lapse 29.90900s	 ll -170544.42510
+The number of components is: 18 
+The lower bound value is: -170544.425103 
+
+Initialization 0
+  Iteration 0	 time lapse 1.05027s	 ll change inf
+  Iteration 10	 time lapse 3.10097s	 ll change 88.84844
+  Iteration 20	 time lapse 3.09709s	 ll change 33.30050
+  Iteration 30	 time lapse 3.17430s	 ll change 17.87777
+  Iteration 40	 time lapse 3.09215s	 ll change 10.84616
+  Iteration 50	 time lapse 3.08658s	 ll change 6.72511
+  Iteration 60	 time lapse 3.12751s	 ll change 4.43207
+  Iteration 70	 time lapse 3.10527s	 ll change 3.21434
+  Iteration 80	 time lapse 3.10951s	 ll change 2.53572
+  Iteration 90	 time lapse 3.11588s	 ll change 2.13325
+Initialization converged: False	 time lapse 31.86643s	 ll -170653.74931
+The number of components is: 19 
+The lower bound value is: -170653.749306 
+
+Initialization 0
+  Iteration 0	 time lapse 1.01865s	 ll change inf
+  Iteration 10	 time lapse 3.30474s	 ll change 101.21793
+  Iteration 20	 time lapse 3.27338s	 ll change 38.82982
+  Iteration 30	 time lapse 3.33336s	 ll change 20.83187
+  Iteration 40	 time lapse 3.23914s	 ll change 12.31599
+  Iteration 50	 time lapse 3.21335s	 ll change 7.45379
+  Iteration 60	 time lapse 3.10499s	 ll change 4.78638
+  Iteration 70	 time lapse 3.28658s	 ll change 3.35815
+  Iteration 80	 time lapse 3.23693s	 ll change 2.56940
+  Iteration 90	 time lapse 3.24497s	 ll change 2.11330
+Initialization converged: False	 time lapse 33.16363s	 ll -170689.72728
+The number of components is: 20 
+The lower bound value is: -170689.727281 
+
+Initialization 0
+  Iteration 0	 time lapse 0.89738s	 ll change inf
+  Iteration 10	 time lapse 3.48548s	 ll change 131.23055
+  Iteration 20	 time lapse 3.34715s	 ll change 42.59713
+  Iteration 30	 time lapse 3.38872s	 ll change 21.16966
+  Iteration 40	 time lapse 3.43103s	 ll change 12.73658
+  Iteration 50	 time lapse 3.29399s	 ll change 8.09145
+  Iteration 60	 time lapse 3.41488s	 ll change 5.48428
+  Iteration 70	 time lapse 3.47462s	 ll change 3.97170
+  Iteration 80	 time lapse 3.36219s	 ll change 3.05663
+  Iteration 90	 time lapse 3.38655s	 ll change 2.46960
+Initialization converged: False	 time lapse 34.43168s	 ll -170724.33847
+The number of components is: 21 
+The lower bound value is: -170724.338473 
+
+Initialization 0
+  Iteration 0	 time lapse 1.01852s	 ll change inf
+  Iteration 10	 time lapse 3.56957s	 ll change 129.56622
+  Iteration 20	 time lapse 3.52069s	 ll change 46.06972
+  Iteration 30	 time lapse 3.42778s	 ll change 24.27711
+  Iteration 40	 time lapse 3.50352s	 ll change 14.20160
+  Iteration 50	 time lapse 3.53213s	 ll change 8.19212
+  Iteration 60	 time lapse 3.54274s	 ll change 4.98429
+  Iteration 70	 time lapse 3.48670s	 ll change 3.39495
+  Iteration 80	 time lapse 3.54272s	 ll change 2.56547
+  Iteration 90	 time lapse 3.52781s	 ll change 2.08500
+Initialization converged: False	 time lapse 35.86342s	 ll -170745.97016
+The number of components is: 22 
+The lower bound value is: -170745.970160 
+
+Initialization 0
+  Iteration 0	 time lapse 0.84673s	 ll change inf
+  Iteration 10	 time lapse 3.61026s	 ll change 151.78658
+  Iteration 20	 time lapse 3.72211s	 ll change 49.26557
+  Iteration 30	 time lapse 3.56612s	 ll change 25.57676
+  Iteration 40	 time lapse 3.61253s	 ll change 14.82973
+  Iteration 50	 time lapse 3.67752s	 ll change 8.80706
+  Iteration 60	 time lapse 3.68293s	 ll change 5.72740
+  Iteration 70	 time lapse 3.65127s	 ll change 4.11051
+  Iteration 80	 time lapse 3.63265s	 ll change 3.18798
+  Iteration 90	 time lapse 3.61593s	 ll change 2.61173
+Initialization converged: False	 time lapse 36.86561s	 ll -170804.51173
+The number of components is: 23 
+The lower bound value is: -170804.511732 
+
+Initialization 0
+  Iteration 0	 time lapse 0.91038s	 ll change inf
+  Iteration 10	 time lapse 3.71907s	 ll change 165.29192
+  Iteration 20	 time lapse 3.70494s	 ll change 53.40038
+  Iteration 30	 time lapse 3.62621s	 ll change 27.13428
+  Iteration 40	 time lapse 3.72259s	 ll change 15.44414
+  Iteration 50	 time lapse 3.74070s	 ll change 9.11710
+  Iteration 60	 time lapse 3.65788s	 ll change 5.90072
+  Iteration 70	 time lapse 3.72262s	 ll change 4.20464
+  Iteration 80	 time lapse 3.76220s	 ll change 3.20243
+  Iteration 90	 time lapse 3.59760s	 ll change 2.53510
+Initialization converged: False	 time lapse 37.52664s	 ll -170808.21904/home/student/anaconda3/lib/python3.6/site-packages/sklearn/mixture/base.py:237: ConvergenceWarning: Initialization 1 did not converge. Try different init parameters, or increase max_iter, tol or check for degenerate data.
+  % (init + 1), ConvergenceWarning)
+
+The number of components is: 24 
+The lower bound value is: -170808.219036 
+
+Initialization 0
+  Iteration 0	 time lapse 1.12292s	 ll change inf
+  Iteration 10	 time lapse 3.87980s	 ll change 174.77316
+  Iteration 20	 time lapse 3.95102s	 ll change 54.19515
+  Iteration 30	 time lapse 3.91633s	 ll change 27.61015
+  Iteration 40	 time lapse 3.95993s	 ll change 15.71934
+  Iteration 50	 time lapse 3.93575s	 ll change 9.26335
+  Iteration 60	 time lapse 3.94896s	 ll change 6.03818
+  Iteration 70	 time lapse 3.92162s	 ll change 4.33725
+  Iteration 80	 time lapse 3.90328s	 ll change 3.33944
+  Iteration 90	 time lapse 3.85027s	 ll change 2.68884
+Initialization converged: False	 time lapse 39.87601s	 ll -170835.45474
+The number of components is: 25 
+The lower bound value is: -170835.454738 
+
+Initialization 0
+  Iteration 0	 time lapse 1.00560s	 ll change inf
+  Iteration 10	 time lapse 4.07421s	 ll change 188.78228
+  Iteration 20	 time lapse 4.05829s	 ll change 56.77520
+  Iteration 30	 time lapse 4.02588s	 ll change 30.31693
+  Iteration 40	 time lapse 3.99359s	 ll change 17.74746
+  Iteration 50	 time lapse 4.00468s	 ll change 10.62290
+  Iteration 60	 time lapse 3.97237s	 ll change 6.88536
+  Iteration 70	 time lapse 4.03215s	 ll change 4.89993
+  Iteration 80	 time lapse 4.05484s	 ll change 3.79285
+  Iteration 90	 time lapse 3.98298s	 ll change 3.11881
+Initialization converged: False	 time lapse 40.82152s	 ll -170920.94928
+The number of components is: 26 
+The lower bound value is: -170920.949276 
+
+Initialization 0
+  Iteration 0	 time lapse 0.96948s	 ll change inf
+  Iteration 10	 time lapse 4.21277s	 ll change 193.47022
+  Iteration 20	 time lapse 4.15742s	 ll change 56.21995
+  Iteration 30	 time lapse 4.16159s	 ll change 26.42898
+  Iteration 40	 time lapse 4.21941s	 ll change 14.63754
+  Iteration 50	 time lapse 4.18889s	 ll change 8.81142
+  Iteration 60	 time lapse 4.10780s	 ll change 5.90812
+  Iteration 70	 time lapse 4.11769s	 ll change 4.35107
+  Iteration 80	 time lapse 4.18604s	 ll change 3.47702
+  Iteration 90	 time lapse 4.25993s	 ll change 3.16557
+Initialization converged: False	 time lapse 42.38132s	 ll -171057.25136
+The number of components is: 27 
+The lower bound value is: -171057.251360 
+
+Initialization 0
+  Iteration 0	 time lapse 0.98202s	 ll change inf
+  Iteration 10	 time lapse 4.27560s	 ll change 199.10939
+  Iteration 20	 time lapse 4.19280s	 ll change 57.32705
+  Iteration 30	 time lapse 4.13094s	 ll change 30.38995
+  Iteration 40	 time lapse 4.17482s	 ll change 19.70220
+  Iteration 50	 time lapse 4.29494s	 ll change 15.25915
+  Iteration 60	 time lapse 4.18885s	 ll change 9.97277
+  Iteration 70	 time lapse 4.30521s	 ll change 6.03192
+  Iteration 80	 time lapse 4.23684s	 ll change 4.25685
+  Iteration 90	 time lapse 4.17693s	 ll change 3.41731
+Initialization converged: False	 time lapse 42.71669s	 ll -170941.89682
+The number of components is: 28 
+The lower bound value is: -170941.896819 
+
+Initialization 0
+  Iteration 0	 time lapse 1.02416s	 ll change inf
+  Iteration 10	 time lapse 4.38761s	 ll change 206.30344
+  Iteration 20	 time lapse 4.45493s	 ll change 57.84645
+  Iteration 30	 time lapse 4.43642s	 ll change 28.98668
+  Iteration 40	 time lapse 4.39244s	 ll change 19.33753
+  Iteration 50	 time lapse 4.28993s	 ll change 12.63180
+  Iteration 60	 time lapse 4.35235s	 ll change 7.82095
+  Iteration 70	 time lapse 4.43691s	 ll change 5.30073
+  Iteration 80	 time lapse 4.44096s	 ll change 4.03241
+  Iteration 90	 time lapse 4.41313s	 ll change 3.36003
+Initialization converged: False	 time lapse 44.61619s	 ll -170955.04676
+The number of components is: 29 
+The lower bound value is: -170955.046756 
+
+Initialization 0
+  Iteration 0	 time lapse 1.06049s	 ll change inf
+  Iteration 10	 time lapse 4.52101s	 ll change 220.54161
+  Iteration 20	 time lapse 4.41142s	 ll change 62.19388
+  Iteration 30	 time lapse 4.48402s	 ll change 34.64407
+  Iteration 40	 time lapse 4.44520s	 ll change 20.57829
+  Iteration 50	 time lapse 4.45231s	 ll change 11.99112
+  Iteration 60	 time lapse 4.45878s	 ll change 7.58513
+  Iteration 70	 time lapse 4.51758s	 ll change 5.37497
+  Iteration 80	 time lapse 4.42544s	 ll change 4.21473
+  Iteration 90	 time lapse 4.44599s	 ll change 3.58030
+Initialization converged: False	 time lapse 45.18746s	 ll -171042.33394
+The number of components is: 30 
+The lower bound value is: -171042.333942 
+
+All lower bound values: [-238410.40340258405, -211039.89773547431, -188603.03944359717, -181410.82931416205, -173919.59705188248, -171861.14737183088, -171127.28691062247, -170855.59196674562, -170663.77532971467, -170513.88959345408, -170346.37463494838, -170334.85066266471, -170376.4414401231, -170408.9836863479, -170450.30624071474, -170460.20771226496, -170532.96036150336, -170544.42510277001, -170653.74930588025, -170689.72728115859, -170724.33847298942, -170745.97016019796, -170804.51173154541, -170808.21903619342, -170835.45473774261, -170920.94927576318, -171057.2513602071, -170941.89681927129, -170955.04675634569, -171042.33394240128]
